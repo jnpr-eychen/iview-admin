@@ -1,0 +1,213 @@
+{
+  "ret": 1,
+  "msg": "succ",
+  "data": [
+    { "uId": "2", "uGid": "1", "uName": "admin", "truename": "admin" },
+    { "uId": "30", "uGid": "1", "uName": "uouou2", "truename": "\u5f20\u4e09" },
+    {
+      "uId": "112",
+      "uGid": "104",
+      "uName": "\u718a\u96c4",
+      "truename": "\u718a\u96c4"
+    },
+    {
+      "uId": "198",
+      "uGid": "104",
+      "uName": "\u5f20\u5efa\u90a6",
+      "truename": "\u5f20\u5efa\u90a6"
+    },
+    {
+      "uId": "267",
+      "uGid": "104",
+      "uName": "\u8c22\u4e3d\u541b",
+      "truename": "\u8c22\u4e3d\u541b"
+    },
+    {
+      "uId": "309",
+      "uGid": "104",
+      "uName": "\u9648\u51b0",
+      "truename": "\u9648\u51b0"
+    },
+    {
+      "uId": "310",
+      "uGid": "104",
+      "uName": "\u90b9\u6600\u67ef",
+      "truename": "\u90b9\u6600\u67ef"
+    },
+    {
+      "uId": "326",
+      "uGid": "107",
+      "uName": "sheji",
+      "truename": "\u8bbe\u8ba1"
+    },
+    {
+      "uId": "327",
+      "uGid": "23",
+      "uName": "ceshi",
+      "truename": "\u5c0f\u9ec4"
+    },
+    {
+      "uId": "328",
+      "uGid": "104",
+      "uName": "\u65f6\u6770",
+      "truename": "\u65f6\u6770"
+    },
+    { "uId": "329", "uGid": "107", "uName": "sheji2", "truename": "sheji2" },
+    {
+      "uId": "330",
+      "uGid": "105",
+      "uName": "ucceshi",
+      "truename": "UC\u6d4b\u8bd5"
+    },
+    {
+      "uId": "331",
+      "uGid": "105",
+      "uName": "\u674e\u80dc\u4e1c",
+      "truename": "\u674e\u80dc\u4e1c"
+    },
+    {
+      "uId": "332",
+      "uGid": "105",
+      "uName": "\u5434\u798f\u6c5f",
+      "truename": "\u5434\u798f\u6c5f"
+    },
+    {
+      "uId": "333",
+      "uGid": "105",
+      "uName": "\u949f\u5e78\u54f2",
+      "truename": "\u949f\u5e78\u54f2"
+    },
+    {
+      "uId": "334",
+      "uGid": "105",
+      "uName": "\u9ec4\u6653\u6148",
+      "truename": "\u9ec4\u6653\u6148"
+    },
+    {
+      "uId": "335",
+      "uGid": "105",
+      "uName": "\u6b65\u6e29\u6167",
+      "truename": "\u6b65\u6e29\u6167"
+    },
+    {
+      "uId": "336",
+      "uGid": "105",
+      "uName": "\u90b9\u5b50\u6210",
+      "truename": "\u90b9\u5b50\u6210"
+    },
+    {
+      "uId": "337",
+      "uGid": "105",
+      "uName": "\u6881\u6587\u4fca",
+      "truename": "\u6881\u6587\u4fca"
+    },
+    {
+      "uId": "338",
+      "uGid": "106",
+      "uName": "ttceshi",
+      "truename": "\u5934\u6761\u6d4b\u8bd5"
+    },
+    {
+      "uId": "343",
+      "uGid": "106",
+      "uName": "\u590f\u6b22",
+      "truename": "\u590f\u6b22"
+    },
+    {
+      "uId": "344",
+      "uGid": "106",
+      "uName": "\u674e\u5927\u519b",
+      "truename": "\u674e\u5927\u519b"
+    },
+    {
+      "uId": "346",
+      "uGid": "106",
+      "uName": "\u8bb8\u5a77\u5a77",
+      "truename": "\u8bb8\u5a77\u5a77"
+    },
+    {
+      "uId": "347",
+      "uGid": "106",
+      "uName": "\u9648\u71d5\u5a77",
+      "truename": "\u9648\u71d5\u5a77"
+    },
+    {
+      "uId": "348",
+      "uGid": "106",
+      "uName": "\u5434\u6770\u9555",
+      "truename": "\u6770\u9555"
+    },
+    {
+      "uId": "349",
+      "uGid": "106",
+      "uName": "\u53f2\u56fd\u680b",
+      "truename": "\u56fd\u680b"
+    },
+    {
+      "uId": "350",
+      "uGid": "106",
+      "uName": "\u5c0f\u534a",
+      "truename": "\u5c0f\u534a"
+    },
+    {
+      "uId": "351",
+      "uGid": "106",
+      "uName": "\u6b65\u6b65",
+      "truename": "\u6b65\u6b65"
+    },
+    {
+      "uId": "352",
+      "uGid": "106",
+      "uName": "\u8d56\u6653\u96ef",
+      "truename": "\u8d56\u6653\u96ef"
+    },
+    {
+      "uId": "353",
+      "uGid": "106",
+      "uName": "\u4e91\u9510\u8fd0\u8425",
+      "truename": "\u4e91\u9510\u8fd0\u8425"
+    },
+    {
+      "uId": "354",
+      "uGid": "106",
+      "uName": "\u5434\u5f66\u7199",
+      "truename": "\u5434\u5f66\u7199"
+    },
+    {
+      "uId": "355",
+      "uGid": "106",
+      "uName": "\u6bdb\u8273\u68f5",
+      "truename": "\u8273\u68f5"
+    },
+    {
+      "uId": "356",
+      "uGid": "104",
+      "uName": "\u8c22\u7389\u6615",
+      "truename": "\u8c22\u7389\u6615"
+    },
+    {
+      "uId": "357",
+      "uGid": "104",
+      "uName": "\u9648\u6653\u9759",
+      "truename": "\u9648\u6653\u9759"
+    },
+    {
+      "uId": "358",
+      "uGid": "104",
+      "uName": "\u6768\u4e3d\u4e39",
+      "truename": "\u6768\u4e3d\u4e39"
+    },
+    {
+      "uId": "360",
+      "uGid": "1",
+      "uName": "\u6570\u636e\u5206\u6790",
+      "truename": "\u6570\u636e\u5206\u6790"
+    },
+    {
+      "uId": "361",
+      "uGid": "108",
+      "uName": "backend",
+      "truename": "\u540e\u53f0\u6d4b\u8bd5"
+    }
+  ]
+}

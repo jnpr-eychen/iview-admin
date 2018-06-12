@@ -1,0 +1,25 @@
+{
+  "ret": 1,
+  "msg": "success",
+  "data": {
+    "page": "1",
+    "page_size": "50",
+    "total_number": 1,
+    "total_page": 1,
+    "list": [
+      {
+        "id": "30",
+        "account_id": "4832892",
+        "account_name": "2923482711",
+        "uid": "0",
+        "media_type": "1",
+        "author": "\u8c22\u7389\u6615",
+        "agent": "\u6d3e\u745e",
+        "agent_detail": "",
+        "rebate": "1.14",
+        "mediaId": "1",
+        "media_name": "\u5e7f\u70b9\u901a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2596 @@
+{
+  "ret": 1,
+  "msg": "succ",
+  "data": {
+    "page": "1",
+    "page_size": "50",
+    "total_number": 913,
+    "total_page": 19,
+    "list": [
+      {
+        "id": "21",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3184141119",
+        "adcreative_id": "84047438922",
+        "adcreative_name": "\u84dd\u6708ol\u5927\u56fe",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u522b\u518d\u53cd\u590d\u5378\u8f7d\u4e86\uff0c\u88c5\u5907\u9760\u6253\u65e0\u5145\u503c\uff0c\u591f\u73a9\u5341\u5e74\uff01",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168176&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/4e9c6527198e283b6f75baa4cce9d39c.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "0",
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "22",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3184141119",
+        "adcreative_id": "84047438921",
+        "adcreative_name":
+          "\u84dd\u6708ol\u5927\u56fe\uff08\u526f\u672c1\uff09",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u5728\u7ebf\u4eba\u6570,4000+\uff01\u7206\u73879.8\uff0c\u8fd9\u6837\u7684\u4f20\u5947\u80fd\u4e0d\u73a9\u5417",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168176&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/4e9c6527198e283b6f75baa4cce9d39c.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "1",
+        "status": "1",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "23",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3209619522",
+        "adcreative_id": "84901534848",
+        "adcreative_name":
+          "\u84dd\u6708ol\u5927\u56fe\uff08\u526f\u672c1\uff09",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u5728\u7ebf\u4eba\u6570,4000+\uff01\u7206\u73879.8\uff0c\u8fd9\u6837\u7684\u4f20\u5947\u80fd\u4e0d\u73a9\u5417",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168172&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/d1f7257529da08d5f4f2a963b5ba6af3.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "0",
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "24",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3209619522",
+        "adcreative_id": "84901534849",
+        "adcreative_name": "\u84dd\u6708ol\u5927\u56fe",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u522b\u518d\u53cd\u590d\u5378\u8f7d\u4e86\uff0c\u88c5\u5907\u9760\u6253\u65e0\u5145\u503c\uff0c\u591f\u73a9\u5341\u5e74\uff01",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168172&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/d1f7257529da08d5f4f2a963b5ba6af3.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "1",
+        "status": "1",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "25",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3183975218",
+        "adcreative_id": "84040368669",
+        "adcreative_name": "\u84dd\u6708ol\uff08\u526f\u672c1\uff09",
+        "materialstyle": "104",
+        "material": {
+          "title":
+            "\u522b\u518d\u53cd\u590d\u5378\u8f7d\u4e86\uff0c\u8fd9\u624d\u662f\u771f\u4f20\u5947\uff0c\u88c5\u5907\u9760\u6253\u65e0\u5145\u503c\uff0c\u591f\u73a9\u5341\u5e74\uff01",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168174&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/9ad43463b6a211aba289b808affe8a4b.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/e8f17b2ae3c82825ad317049f2f78058.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/5ab4e772c26e521a7595fa9bacac7663.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "1",
+        "status": "1",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "26",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3183975218",
+        "adcreative_id": "84040368668",
+        "adcreative_name": "\u84dd\u6708ol",
+        "materialstyle": "104",
+        "material": {
+          "title":
+            "\u6e23\u6e23\u8f89\u5929\u4ef7\u8d26\u53f7\u610f\u5916\u66dd\u5149\uff0c\u4e0d\u82b1\u4e00\u5206\u94b1\uff0c\u5b8c\u8650\u53e4\u5929\u4e50\u9648\u5c0f\u6625\uff01",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168174&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/9ad43463b6a211aba289b808affe8a4b.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/e8f17b2ae3c82825ad317049f2f78058.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/5ab4e772c26e521a7595fa9bacac7663.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "0",
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "27",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3209635701",
+        "adcreative_id": "84902546068",
+        "adcreative_name": "\u84dd\u6708ol\u5927\u56fe",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u522b\u518d\u53cd\u590d\u5378\u8f7d\u4e86\uff0c\u88c5\u5907\u9760\u6253\u65e0\u5145\u503c\uff0c\u591f\u73a9\u5341\u5e74\uff01",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168174&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/ff324d609b9c53bbd43a2e36f19dce04.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "0",
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "28",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3209635701",
+        "adcreative_id": "84902546067",
+        "adcreative_name":
+          "\u84dd\u6708ol\u5927\u56fe\uff08\u526f\u672c1\uff09",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u5728\u7ebf\u4eba\u6570,4000+\uff01\u7206\u73879.8\uff0c\u8fd9\u6837\u7684\u4f20\u5947\u80fd\u4e0d\u73a9\u5417",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168174&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/ff324d609b9c53bbd43a2e36f19dce04.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "0",
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "29",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3221108585",
+        "adcreative_id": "85369950301",
+        "adcreative_name":
+          "\u84dd\u6708ol\u5927\u56fe\uff08\u526f\u672c1\uff09",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u5728\u7ebf\u4eba\u6570,4000+\uff01\u7206\u73879.8\uff0c\u8fd9\u6837\u7684\u4f20\u5947\u80fd\u4e0d\u73a9\u5417",
+          "brand": "\u8d85\u7ea7\u84dd\u6708",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=170678&g_id=498&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/4e20dcd514ddacf11dfd7f4509c47a83.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/f208af85b1b4dfb63364658f9560fb50.jpg"
+            }
+          ],
+          "appName": "\u8d85\u7ea7\u84dd\u6708"
+        },
+        "pause": "1",
+        "status": "1",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "30",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3221108585",
+        "adcreative_id": "85369950300",
+        "adcreative_name": "\u84dd\u6708ol\u5927\u56fe",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u522b\u518d\u53cd\u590d\u5378\u8f7d\u4e86\uff0c\u88c5\u5907\u9760\u6253\u65e0\u5145\u503c\uff0c\u591f\u73a9\u5341\u5e74\uff01",
+          "brand": "\u8d85\u7ea7\u84dd\u6708",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=170678&g_id=498&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/4e20dcd514ddacf11dfd7f4509c47a83.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/f208af85b1b4dfb63364658f9560fb50.jpg"
+            }
+          ],
+          "appName": "\u8d85\u7ea7\u84dd\u6708"
+        },
+        "pause": "0",
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "31",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3221108585",
+        "adcreative_id": "85369950302",
+        "adcreative_name":
+          "\u84dd\u6708ol\u5927\u56fe\uff08\u526f\u672c1-1\uff09",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u4e0d\u5145\u503c\u6ca1\u5173\u7cfb\uff0c\u6240\u6709\u88c5\u5907\u5168\u9760\u6253\uff0c1\u602a=10\u5143\u5b9d",
+          "brand": "\u8d85\u7ea7\u84dd\u6708",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=170678&g_id=498&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/4e20dcd514ddacf11dfd7f4509c47a83.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/f208af85b1b4dfb63364658f9560fb50.jpg"
+            }
+          ],
+          "appName": "\u8d85\u7ea7\u84dd\u6708"
+        },
+        "pause": "1",
+        "status": "1",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "32",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3186417918",
+        "adcreative_id": "84128144004",
+        "adcreative_name": "\u84dd\u6708ol\uff08\u526f\u672c1\uff09",
+        "materialstyle": "104",
+        "material": {
+          "title":
+            "\u522b\u518d\u53cd\u590d\u5378\u8f7d\u4e86\uff0c\u8fd9\u624d\u662f\u771f\u4f20\u5947\uff0c\u88c5\u5907\u9760\u6253\u65e0\u5145\u503c\uff0c\u591f\u73a9\u5341\u5e74\uff01",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168175&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/e19acafe902a876847acb1df0994b0cb.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/545e5dc818054d652a9f5f2581c1170b.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/c4061bacbff9fea9e6f15d16953e85ef.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "1",
+        "status": "1",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "33",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3186417918",
+        "adcreative_id": "84128144005",
+        "adcreative_name": "\u84dd\u6708ol",
+        "materialstyle": "104",
+        "material": {
+          "title":
+            "\u6e23\u6e23\u8f89\u5929\u4ef7\u8d26\u53f7\u610f\u5916\u66dd\u5149\uff0c\u4e0d\u82b1\u4e00\u5206\u94b1\uff0c\u5b8c\u8650\u53e4\u5929\u4e50\u9648\u5c0f\u6625\uff01",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168175&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/e19acafe902a876847acb1df0994b0cb.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/545e5dc818054d652a9f5f2581c1170b.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/c4061bacbff9fea9e6f15d16953e85ef.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "0",
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "34",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3221088909",
+        "adcreative_id": "85368811110",
+        "adcreative_name": "\u84dd\u6708ol\u5927\u56fe",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u522b\u518d\u53cd\u590d\u5378\u8f7d\u4e86\uff0c\u88c5\u5907\u9760\u6253\u65e0\u5145\u503c\uff0c\u591f\u73a9\u5341\u5e74\uff01",
+          "brand": "\u8d85\u7ea7\u84dd\u6708",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=170675&g_id=498&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/4e20dcd514ddacf11dfd7f4509c47a83.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/60160d79d48e966b679d462b3649cd17.jpg"
+            }
+          ],
+          "appName": "\u8d85\u7ea7\u84dd\u6708"
+        },
+        "pause": "0",
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "35",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3221088909",
+        "adcreative_id": "85368811111",
+        "adcreative_name":
+          "\u84dd\u6708ol\u5927\u56fe\uff08\u526f\u672c1\uff09",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u5728\u7ebf\u4eba\u6570,4000+\uff01\u7206\u73879.8\uff0c\u8fd9\u6837\u7684\u4f20\u5947\u80fd\u4e0d\u73a9\u5417",
+          "brand": "\u8d85\u7ea7\u84dd\u6708",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=170675&g_id=498&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/4e20dcd514ddacf11dfd7f4509c47a83.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/60160d79d48e966b679d462b3649cd17.jpg"
+            }
+          ],
+          "appName": "\u8d85\u7ea7\u84dd\u6708"
+        },
+        "pause": "0",
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "36",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3184810337",
+        "adcreative_id": "84064364515",
+        "adcreative_name":
+          "\u84dd\u6708ol\u5927\u56fe\uff08\u526f\u672c1\uff09",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u5728\u7ebf\u4eba\u6570,4000+\uff01\u7206\u73879.8\uff0c\u8fd9\u6837\u7684\u4f20\u5947\u80fd\u4e0d\u73a9\u5417",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168172&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/c2a275f2b6e5dcd7301a0b456cefc546.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "1",
+        "status": "1",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "37",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3184810337",
+        "adcreative_id": "84064364514",
+        "adcreative_name": "\u84dd\u6708ol\u5927\u56fe",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u522b\u518d\u53cd\u590d\u5378\u8f7d\u4e86\uff0c\u88c5\u5907\u9760\u6253\u65e0\u5145\u503c\uff0c\u591f\u73a9\u5341\u5e74\uff01",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168172&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/c2a275f2b6e5dcd7301a0b456cefc546.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "0",
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "38",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3221088909",
+        "adcreative_id": "85368811112",
+        "adcreative_name":
+          "\u84dd\u6708ol\u5927\u56fe\uff08\u526f\u672c1-1\uff09",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u4e0d\u5145\u503c\u6ca1\u5173\u7cfb\uff0c\u6240\u6709\u88c5\u5907\u5168\u9760\u6253\uff0c1\u602a=10\u5143\u5b9d",
+          "brand": "\u8d85\u7ea7\u84dd\u6708",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=170675&g_id=498&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/4e20dcd514ddacf11dfd7f4509c47a83.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/60160d79d48e966b679d462b3649cd17.jpg"
+            }
+          ],
+          "appName": "\u8d85\u7ea7\u84dd\u6708"
+        },
+        "pause": "0",
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "39",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3209671061",
+        "adcreative_id": "84902769222",
+        "adcreative_name":
+          "\u84dd\u6708ol\u5927\u56fe\uff08\u526f\u672c1\uff09",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u5728\u7ebf\u4eba\u6570,4000+\uff01\u7206\u73879.8\uff0c\u8fd9\u6837\u7684\u4f20\u5947\u80fd\u4e0d\u73a9\u5417",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168176&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/87812a2c66d59d79ca5dd4e95ad845f8.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "0",
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "40",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3209671061",
+        "adcreative_id": "84902769223",
+        "adcreative_name": "\u84dd\u6708ol\u5927\u56fe",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u522b\u518d\u53cd\u590d\u5378\u8f7d\u4e86\uff0c\u88c5\u5907\u9760\u6253\u65e0\u5145\u503c\uff0c\u591f\u73a9\u5341\u5e74\uff01",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168176&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/87812a2c66d59d79ca5dd4e95ad845f8.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "0",
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "41",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3209667898",
+        "adcreative_id": "84902627229",
+        "adcreative_name": "\u84dd\u6708ol\u5927\u56fe",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u522b\u518d\u53cd\u590d\u5378\u8f7d\u4e86\uff0c\u88c5\u5907\u9760\u6253\u65e0\u5145\u503c\uff0c\u591f\u73a9\u5341\u5e74\uff01",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168175&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/8f2b614e9e5ad034aa334962339fbef9.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "1",
+        "status": "1",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "42",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3209667898",
+        "adcreative_id": "84902627230",
+        "adcreative_name":
+          "\u84dd\u6708ol\u5927\u56fe\uff08\u526f\u672c1\uff09",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u5728\u7ebf\u4eba\u6570,4000+\uff01\u7206\u73879.8\uff0c\u8fd9\u6837\u7684\u4f20\u5947\u80fd\u4e0d\u73a9\u5417",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168175&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/8f2b614e9e5ad034aa334962339fbef9.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "0",
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "43",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3221103990",
+        "adcreative_id": "85369251266",
+        "adcreative_name":
+          "\u84dd\u6708ol\u5927\u56fe\uff08\u526f\u672c1-1\uff09",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u4e0d\u5145\u503c\u6ca1\u5173\u7cfb\uff0c\u6240\u6709\u88c5\u5907\u5168\u9760\u6253\uff0c1\u602a=10\u5143\u5b9d",
+          "brand": "\u8d85\u7ea7\u84dd\u6708",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168172&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/4e20dcd514ddacf11dfd7f4509c47a83.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/9948a7d7ba6c53a4a5750e9d2f518c1a.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708"
+        },
+        "pause": "0",
+        "status": "1",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "44",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3221097476",
+        "adcreative_id": "85368966884",
+        "adcreative_name": "\u84dd\u6708ol\u5927\u56fe",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u522b\u518d\u53cd\u590d\u5378\u8f7d\u4e86\uff0c\u88c5\u5907\u9760\u6253\u65e0\u5145\u503c\uff0c\u591f\u73a9\u5341\u5e74\uff01",
+          "brand": "\u8d85\u7ea7\u84dd\u6708",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=170676&g_id=498&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/4e20dcd514ddacf11dfd7f4509c47a83.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/b8c08e6f8497a669c82f24f1d2ff821d.jpg"
+            }
+          ],
+          "appName": "\u8d85\u7ea7\u84dd\u6708"
+        },
+        "pause": "0",
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "45",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3221103990",
+        "adcreative_id": "85369251267",
+        "adcreative_name":
+          "\u84dd\u6708ol\u5927\u56fe\uff08\u526f\u672c1\uff09",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u5728\u7ebf\u4eba\u6570,4000+\uff01\u7206\u73879.8\uff0c\u8fd9\u6837\u7684\u4f20\u5947\u80fd\u4e0d\u73a9\u5417",
+          "brand": "\u8d85\u7ea7\u84dd\u6708",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168172&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/4e20dcd514ddacf11dfd7f4509c47a83.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/9948a7d7ba6c53a4a5750e9d2f518c1a.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708"
+        },
+        "pause": "0",
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "46",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3221097476",
+        "adcreative_id": "85368966882",
+        "adcreative_name":
+          "\u84dd\u6708ol\u5927\u56fe\uff08\u526f\u672c1-1\uff09",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u4e0d\u5145\u503c\u6ca1\u5173\u7cfb\uff0c\u6240\u6709\u88c5\u5907\u5168\u9760\u6253\uff0c1\u602a=10\u5143\u5b9d",
+          "brand": "\u8d85\u7ea7\u84dd\u6708",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=170676&g_id=498&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/4e20dcd514ddacf11dfd7f4509c47a83.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/b8c08e6f8497a669c82f24f1d2ff821d.jpg"
+            }
+          ],
+          "appName": "\u8d85\u7ea7\u84dd\u6708"
+        },
+        "pause": "0",
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "47",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3221103990",
+        "adcreative_id": "85369251268",
+        "adcreative_name": "\u84dd\u6708ol\u5927\u56fe",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u522b\u518d\u53cd\u590d\u5378\u8f7d\u4e86\uff0c\u88c5\u5907\u9760\u6253\u65e0\u5145\u503c\uff0c\u591f\u73a9\u5341\u5e74\uff01",
+          "brand": "\u8d85\u7ea7\u84dd\u6708",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168172&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/4e20dcd514ddacf11dfd7f4509c47a83.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/9948a7d7ba6c53a4a5750e9d2f518c1a.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708"
+        },
+        "pause": "0",
+        "status": "1",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "48",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3221097476",
+        "adcreative_id": "85368966883",
+        "adcreative_name":
+          "\u84dd\u6708ol\u5927\u56fe\uff08\u526f\u672c1\uff09",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u5728\u7ebf\u4eba\u6570,4000+\uff01\u7206\u73879.8\uff0c\u8fd9\u6837\u7684\u4f20\u5947\u80fd\u4e0d\u73a9\u5417",
+          "brand": "\u8d85\u7ea7\u84dd\u6708",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=170676&g_id=498&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/4e20dcd514ddacf11dfd7f4509c47a83.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/b8c08e6f8497a669c82f24f1d2ff821d.jpg"
+            }
+          ],
+          "appName": "\u8d85\u7ea7\u84dd\u6708"
+        },
+        "pause": "0",
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "49",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3209622984",
+        "adcreative_id": "84901657050",
+        "adcreative_name":
+          "\u84dd\u6708ol\u5927\u56fe\uff08\u526f\u672c1\uff09",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u5728\u7ebf\u4eba\u6570,4000+\uff01\u7206\u73879.8\uff0c\u8fd9\u6837\u7684\u4f20\u5947\u80fd\u4e0d\u73a9\u5417",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168173&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/cee3e0ae55e69c5965d125f3b8172e50.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "0",
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "50",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3184810841",
+        "adcreative_id": "84064410905",
+        "adcreative_name": "\u84dd\u6708ol",
+        "materialstyle": "104",
+        "material": {
+          "title":
+            "\u6e23\u6e23\u8f89\u5929\u4ef7\u8d26\u53f7\u610f\u5916\u66dd\u5149\uff0c\u4e0d\u82b1\u4e00\u5206\u94b1\uff0c\u5b8c\u8650\u53e4\u5929\u4e50\u9648\u5c0f\u6625\uff01",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168173&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/c155d4ec5738096f187e66f42c47da41.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/2a92bf4e91b60544b813cc84c6e091d0.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/724f2730add8ff707b0213b5c11bac28.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "0",
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "51",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3209622984",
+        "adcreative_id": "84901657049",
+        "adcreative_name": "\u84dd\u6708ol\u5927\u56fe",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u522b\u518d\u53cd\u590d\u5378\u8f7d\u4e86\uff0c\u88c5\u5907\u9760\u6253\u65e0\u5145\u503c\uff0c\u591f\u73a9\u5341\u5e74\uff01",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168173&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/cee3e0ae55e69c5965d125f3b8172e50.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "1",
+        "status": "1",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "52",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3184810841",
+        "adcreative_id": "84064410904",
+        "adcreative_name": "\u84dd\u6708ol\uff08\u526f\u672c1\uff09",
+        "materialstyle": "104",
+        "material": {
+          "title":
+            "\u522b\u518d\u53cd\u590d\u5378\u8f7d\u4e86\uff0c\u8fd9\u624d\u662f\u771f\u4f20\u5947\uff0c\u88c5\u5907\u9760\u6253\u65e0\u5145\u503c\uff0c\u591f\u73a9\u5341\u5e74\uff01",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168173&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/c155d4ec5738096f187e66f42c47da41.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/2a92bf4e91b60544b813cc84c6e091d0.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/724f2730add8ff707b0213b5c11bac28.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "0",
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "53",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3183970521",
+        "adcreative_id": "84137903363",
+        "adcreative_name": "\u84dd\u6708ol-1\uff08\u526f\u672c1\uff09",
+        "materialstyle": "104",
+        "material": {
+          "title":
+            "\u522b\u518d\u53cd\u590d\u5378\u8f7d\u4e86\uff0c\u6e23\u6e23\u8f89\u73a9\u7684\u771f\u4f20\u5947\uff0c\u88c5\u5907\u9760\u6253\u65e0\u5145\u503c\uff0c\u591f\u73a9\u5341\u5e74\uff01",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168173&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/2a92bf4e91b60544b813cc84c6e091d0.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/bbd4a329ab68fbf0cdc3c65d1b313456.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/e8f17b2ae3c82825ad317049f2f78058.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "1",
+        "status": "1",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "54",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3186422603",
+        "adcreative_id": "84128626051",
+        "adcreative_name": "\u84dd\u6708ol\uff08\u526f\u672c1\uff09",
+        "materialstyle": "104",
+        "material": {
+          "title":
+            "\u522b\u518d\u53cd\u590d\u5378\u8f7d\u4e86\uff0c\u8fd9\u624d\u662f\u771f\u4f20\u5947\uff0c\u88c5\u5907\u9760\u6253\u65e0\u5145\u503c\uff0c\u591f\u73a9\u5341\u5e74\uff01",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168176&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/ca00cd9026de8fd97e30fdbea42bebd3.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/6c27393048e2b2de332c446a6b018e2f.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/8d841dc5234e6faf492db4d191ec2d95.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "1",
+        "status": "1",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "55",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3186422603",
+        "adcreative_id": "84128626050",
+        "adcreative_name": "\u84dd\u6708ol",
+        "materialstyle": "104",
+        "material": {
+          "title":
+            "\u6e23\u6e23\u8f89\u5929\u4ef7\u8d26\u53f7\u610f\u5916\u66dd\u5149\uff0c\u4e0d\u82b1\u4e00\u5206\u94b1\uff0c\u5b8c\u8650\u53e4\u5929\u4e50\u9648\u5c0f\u6625\uff01",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168176&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/ca00cd9026de8fd97e30fdbea42bebd3.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/6c27393048e2b2de332c446a6b018e2f.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/8d841dc5234e6faf492db4d191ec2d95.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "0",
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "56",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3183978135",
+        "adcreative_id": "84040611747",
+        "adcreative_name": "\u84dd\u6708ol\u5927\u56fe",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u522b\u518d\u53cd\u590d\u5378\u8f7d\u4e86\uff0c\u88c5\u5907\u9760\u6253\u65e0\u5145\u503c\uff0c\u591f\u73a9\u5341\u5e74\uff01",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168175&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/7645b93a738a52c8a40a7f0536ffb4df.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "0",
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "57",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3183970521",
+        "adcreative_id": "84040289929",
+        "adcreative_name": "\u84dd\u6708ol\uff08\u526f\u672c1\uff09",
+        "materialstyle": "104",
+        "material": {
+          "title":
+            "\u522b\u518d\u53cd\u590d\u5378\u8f7d\u4e86\uff0c\u8fd9\u624d\u662f\u771f\u4f20\u5947\uff0c\u88c5\u5907\u9760\u6253\u65e0\u5145\u503c\uff0c\u591f\u73a9\u5341\u5e74\uff01",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168173&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/2a92bf4e91b60544b813cc84c6e091d0.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/bbd4a329ab68fbf0cdc3c65d1b313456.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/e8f17b2ae3c82825ad317049f2f78058.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "0",
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "58",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3186417676",
+        "adcreative_id": "84128088571",
+        "adcreative_name": "\u84dd\u6708ol",
+        "materialstyle": "104",
+        "material": {
+          "title":
+            "\u6e23\u6e23\u8f89\u5929\u4ef7\u8d26\u53f7\u610f\u5916\u66dd\u5149\uff0c\u4e0d\u82b1\u4e00\u5206\u94b1\uff0c\u5b8c\u8650\u53e4\u5929\u4e50\u9648\u5c0f\u6625\uff01",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168174&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/a1d87c4007b54d32a94fc08f1fc70f5a.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/59728335323dccb9073873669d78e17f.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/5c670a01efede7f1497806334cccecde.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "0",
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "59",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3183950797",
+        "adcreative_id": "84039797037",
+        "adcreative_name": "\u84dd\u6708ol\uff08\u526f\u672c1\uff09",
+        "materialstyle": "104",
+        "material": {
+          "title":
+            "\u522b\u518d\u53cd\u590d\u5378\u8f7d\u4e86\uff0c\u8fd9\u624d\u662f\u771f\u4f20\u5947\uff0c\u88c5\u5907\u9760\u6253\u65e0\u5145\u503c\uff0c\u591f\u73a9\u5341\u5e74\uff01",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168172&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/3a6ecce29c153a73a9eb91f641f8486b.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/28a013e424d0f3aff8044124dcd11068.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/1f446e87830c2864f338d9fcb99f89d4.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "1",
+        "status": "1",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "60",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3183970521",
+        "adcreative_id": "84040289930",
+        "adcreative_name": "\u84dd\u6708ol",
+        "materialstyle": "104",
+        "material": {
+          "title":
+            "\u6e23\u6e23\u8f89\u5929\u4ef7\u8d26\u53f7\u610f\u5916\u66dd\u5149\uff0c\u4e0d\u82b1\u4e00\u5206\u94b1\uff0c\u5b8c\u8650\u53e4\u5929\u4e50\u9648\u5c0f\u6625\uff01",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168173&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/2a92bf4e91b60544b813cc84c6e091d0.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/bbd4a329ab68fbf0cdc3c65d1b313456.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/e8f17b2ae3c82825ad317049f2f78058.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "1",
+        "status": "1",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "61",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3183950797",
+        "adcreative_id": "84039797036",
+        "adcreative_name": "\u84dd\u6708ol",
+        "materialstyle": "104",
+        "material": {
+          "title":
+            "\u6e23\u6e23\u8f89\u5929\u4ef7\u8d26\u53f7\u610f\u5916\u66dd\u5149\uff0c\u4e0d\u82b1\u4e00\u5206\u94b1\uff0c\u5b8c\u8650\u53e4\u5929\u4e50\u9648\u5c0f\u6625\uff01",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168172&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/3a6ecce29c153a73a9eb91f641f8486b.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/28a013e424d0f3aff8044124dcd11068.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/1f446e87830c2864f338d9fcb99f89d4.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "0",
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "62",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3186417676",
+        "adcreative_id": "84128088572",
+        "adcreative_name": "\u84dd\u6708ol\uff08\u526f\u672c1\uff09",
+        "materialstyle": "104",
+        "material": {
+          "title":
+            "\u522b\u518d\u53cd\u590d\u5378\u8f7d\u4e86\uff0c\u8fd9\u624d\u662f\u771f\u4f20\u5947\uff0c\u88c5\u5907\u9760\u6253\u65e0\u5145\u503c\uff0c\u591f\u73a9\u5341\u5e74\uff01",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168174&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/a1d87c4007b54d32a94fc08f1fc70f5a.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/59728335323dccb9073873669d78e17f.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/5c670a01efede7f1497806334cccecde.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "1",
+        "status": "1",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "63",
+        "account_id": "25537424",
+        "campaign_id": "0",
+        "adgroup_id": "3183978135",
+        "adcreative_id": "84040611748",
+        "adcreative_name":
+          "\u84dd\u6708ol\u5927\u56fe\uff08\u526f\u672c1\uff09",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u5728\u7ebf\u4eba\u6570,4000+\uff01\u7206\u73879.8\uff0c\u8fd9\u6837\u7684\u4f20\u5947\u80fd\u4e0d\u73a9\u5417",
+          "brand": "\u8d2a\u73a9\u84dd\u6708ol",
+          "subtitle": "\u516b\u500d\u7206\u7387 \u9001VIP13",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=102220&s_id=168175&g_id=360&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&ua={{UA}}&ip={{IP}}&akey=MjU1Mzc0MjQ=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/826875ec603a209e9a0e0f530369f084.png",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/7645b93a738a52c8a40a7f0536ffb4df.jpg"
+            }
+          ],
+          "appName": "\u8d2a\u73a9\u84dd\u6708online"
+        },
+        "pause": "0",
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1526472479",
+        "last_modified_time": "1526472479",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "270",
+        "account_id": "24678315",
+        "campaign_id": "0",
+        "adgroup_id": "3257747574",
+        "adcreative_id": "86846576334",
+        "adcreative_name": "\u81f3\u5c0a\u5355\u673a",
+        "materialstyle": "104",
+        "material": {
+          "title":
+            "\u5728\u7ebf\u4eba\u6570,4000+\uff01\u7206\u73879.8\uff0c\u8fd9\u6837\u7684\u4f20\u5947\u80fd\u4e0d\u73a9\u5417\uff01",
+          "brand": "\u76db\u4e16\u9738\u4e1a",
+          "subtitle": "\u5145\u94b1\u4e0d\u53ef\u80fd",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=101091&s_id=172150&g_id=356&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&akey=MjQ2NzgzMTU=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/e716557e3603cde676b41487b2611845.jpg",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/1e72db5f283c2dc85b09419b7e749b06.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/bcc3b0498574340ae62bb273ac988b78.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/396ab7885ce06f69949d75bf5f8015be.jpg"
+            }
+          ],
+          "appName": "\u76db\u4e16\u9738\u4e1a"
+        },
+        "pause": null,
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1527494889",
+        "last_modified_time": "1527494889",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "271",
+        "account_id": "24678315",
+        "campaign_id": "0",
+        "adgroup_id": "3253682901",
+        "adcreative_id": "86670880966",
+        "adcreative_name": "\u81f3\u5c0a\u5355\u673a",
+        "materialstyle": "104",
+        "material": {
+          "title":
+            "\u522b\u518d\u53cd\u590d\u5378\u8f7d\u4e86\uff0c\u88c5\u5907\u9760\u6253\u65e0\u5145\u503c\uff0c\u591f\u73a9\u5341\u5e74\uff01",
+          "brand": "\u76db\u4e16\u9738\u4e1a",
+          "subtitle": "\u5145\u94b1\u4e0d\u53ef\u80fd",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=101091&s_id=172148&g_id=356&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&akey=MjQ2NzgzMTU=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/e716557e3603cde676b41487b2611845.jpg",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/c793084bc56265dc4b66e471dd7a0966.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/bb5a5c2182d613b064d605e10d70e2ad.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/b2361ce06950439c5e781a9034468eef.jpg"
+            }
+          ],
+          "appName": "\u76db\u4e16\u9738\u4e1a"
+        },
+        "pause": null,
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1527494889",
+        "last_modified_time": "1527494889",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "272",
+        "account_id": "24678315",
+        "campaign_id": "0",
+        "adgroup_id": "3253682901",
+        "adcreative_id": "86670880965",
+        "adcreative_name": "\u81f3\u5c0a\u5355\u673a\uff08\u526f\u672c1\uff09",
+        "materialstyle": "104",
+        "material": {
+          "title":
+            "\u65e0\u9700wifi\uff0c\u4e0d\u7528\u5145\u503c\uff0c2M\u5fae\u7aef\uff0c\u5378\u8f7d\u7b97\u6211\u8f93\uff01",
+          "brand": "\u76db\u4e16\u9738\u4e1a",
+          "subtitle": "\u5145\u94b1\u4e0d\u53ef\u80fd",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=101091&s_id=172148&g_id=356&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&akey=MjQ2NzgzMTU=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/e716557e3603cde676b41487b2611845.jpg",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/c793084bc56265dc4b66e471dd7a0966.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/bb5a5c2182d613b064d605e10d70e2ad.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/b2361ce06950439c5e781a9034468eef.jpg"
+            }
+          ],
+          "appName": "\u76db\u4e16\u9738\u4e1a"
+        },
+        "pause": null,
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1527494889",
+        "last_modified_time": "1527494889",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "273",
+        "account_id": "24678315",
+        "campaign_id": "0",
+        "adgroup_id": "3257747574",
+        "adcreative_id": "86846576333",
+        "adcreative_name": "\u81f3\u5c0a\u5355\u673a\uff08\u526f\u672c1\uff09",
+        "materialstyle": "104",
+        "material": {
+          "title":
+            "\u6e23\u6e23\u8f89\u5929\u4ef7\u8d26\u53f7\u610f\u5916\u66dd\u5149\uff0c\u4e0d\u82b1\u4e00\u5206\u94b1\uff0c\u5b8c\u8650\u53e4\u5929\u4e50\u9648\u5c0f\u6625\uff01",
+          "brand": "\u76db\u4e16\u9738\u4e1a",
+          "subtitle": "\u5145\u94b1\u4e0d\u53ef\u80fd",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=101091&s_id=172150&g_id=356&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&akey=MjQ2NzgzMTU=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/e716557e3603cde676b41487b2611845.jpg",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/1e72db5f283c2dc85b09419b7e749b06.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/bcc3b0498574340ae62bb273ac988b78.jpg"
+            },
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/396ab7885ce06f69949d75bf5f8015be.jpg"
+            }
+          ],
+          "appName": "\u76db\u4e16\u9738\u4e1a"
+        },
+        "pause": null,
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1527494889",
+        "last_modified_time": "1527494889",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "274",
+        "account_id": "24678315",
+        "campaign_id": "0",
+        "adgroup_id": "3240376772",
+        "adcreative_id": "86165655385",
+        "adcreative_name":
+          "\u81f3\u5c0a\u5355\u673a\uff08\u526f\u672c1\uff09-1",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u53e4\u5929\u4e50\uff1a\u8ddf\u7535\u8111\u7248\u4e00\u6a21\u4e00\u6837\u7684\u4f20\u5947\uff0c\u7206\u73879.8\uff01",
+          "brand": "\u76db\u4e16\u9738\u4e1a",
+          "subtitle": "\u516b\u500d\u7206\u7387",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=101091&s_id=172149&g_id=356&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&akey=MjQ2NzgzMTU=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/e716557e3603cde676b41487b2611845.jpg",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/ba352a616851e0e4bd4a978de69e4e89.jpg"
+            }
+          ],
+          "appName": "\u76db\u4e16\u9738\u4e1a"
+        },
+        "pause": null,
+        "status": "1",
+        "refusereason": null,
+        "created_time": "1527494889",
+        "last_modified_time": "1527494889",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "275",
+        "account_id": "24678315",
+        "campaign_id": "0",
+        "adgroup_id": "3240376772",
+        "adcreative_id": "86165655386",
+        "adcreative_name": "\u81f3\u5c0a\u5355\u673a-\u65b0",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u522b\u518d\u53cd\u590d\u5378\u8f7d\u4e86\uff0c\u88c5\u5907\u9760\u6253\u65e0\u5145\u503c\uff0c\u591f\u73a9\u5341\u5e74\uff01",
+          "brand": "\u76db\u4e16\u9738\u4e1a",
+          "subtitle": "\u516b\u500d\u7206\u7387",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=101091&s_id=172149&g_id=356&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&akey=MjQ2NzgzMTU=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/e716557e3603cde676b41487b2611845.jpg",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/ba352a616851e0e4bd4a978de69e4e89.jpg"
+            }
+          ],
+          "appName": "\u76db\u4e16\u9738\u4e1a"
+        },
+        "pause": null,
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1527494889",
+        "last_modified_time": "1527494889",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      },
+      {
+        "id": "276",
+        "account_id": "24678315",
+        "campaign_id": "0",
+        "adgroup_id": "3242868690",
+        "adcreative_id": "86250018215",
+        "adcreative_name":
+          "\u81f3\u5c0a\u5355\u673a\uff08\u526f\u672c1\uff09-1",
+        "materialstyle": "106",
+        "material": {
+          "title":
+            "\u8ddf\u7535\u8111\u4e00\u6837\u7684\u4f20\u5947\u51faios\u7248\uff01\u7206\u73879.8\uff0c\u7acb\u5373\u4f53\u9a8c\uff01",
+          "brand": "\u76db\u4e16\u9738\u4e1a",
+          "subtitle": "\u539f\u6c41\u539f\u5473\u4f20\u5947",
+          "monitorUrl":
+            "http://gdtapi.tanwan.com/click/getBaidu.php?ad_id=101091&s_id=172150&g_id=356&idfa={{IDFA}}&callback={{CALLBACK_URL}}&sign={{SIGN}}&os={{OS}}&timestamp={{TS}}&akey=MjQ2NzgzMTU=",
+          "userPortrait":
+            "http://fc-feed.cdn.bcebos.com/0/pic/e716557e3603cde676b41487b2611845.jpg",
+          "pictures": [
+            {
+              "image":
+                "http://fc-feed.cdn.bcebos.com/0/pic/b01703c3246d3d0395c363111e5dbd85.jpg"
+            }
+          ],
+          "appName": "\u76db\u4e16\u9738\u4e1a"
+        },
+        "pause": null,
+        "status": "0",
+        "refusereason": null,
+        "created_time": "1527494889",
+        "last_modified_time": "1527494889",
+        "author": null,
+        "account_name": null,
+        "impression": 0,
+        "cost": 0,
+        "click": 0,
+        "ctr": "0%",
+        "cpc": 0,
+        "cpm": 0,
+        "download_start": 0,
+        "download_complete": 0,
+        "download_complete_rate": "0%",
+        "conversion": 0,
+        "activation": 0,
+        "cvr": "0%",
+        "cost_per_conversion": 0,
+        "adgroup_name": null,
+        "campaign_name": ""
+      }
+    ],
+    "curr_page_total": {
+      "impression": 0,
+      "click": 0,
+      "cost": 0,
+      "cpc": 0,
+      "download_start": 0,
+      "download_complete": 0,
+      "download_complete_rate": 0,
+      "conversion": 0,
+      "cvr": 0,
+      "cost_per_conversion": 0,
+      "ctr": "0%",
+      "cpm": "0.00"
+    }
+  }
+}

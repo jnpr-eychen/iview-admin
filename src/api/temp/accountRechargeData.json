@@ -1,0 +1,76 @@
+{
+  "ret": 1,
+  "msg": "succ",
+  "data": {
+    "page": 1,
+    "page_size": 50,
+    "total_number": 4,
+    "total_page": 1,
+    "list": [
+      {
+        "id": "1",
+        "status": "1",
+        "date": "2018-05-15 00:00:00",
+        "money": "100",
+        "mark": "备注",
+        "account_id": "3415636",
+        "account_name": "1517466390",
+        "author": "张建邦",
+        "agent": "云锐",
+        "agent_detail": "云锐全称test",
+        "rebate": "1.14",
+        "recharge_money": 114,
+        "cost": 688.84,
+        "balance": 418583
+      },
+      {
+        "id": "2",
+        "status": "1",
+        "date": "2018-05-15 00:00:00",
+        "money": "100",
+        "mark": "ceshi",
+        "account_id": "3415636",
+        "account_name": "1517466390",
+        "author": "张建邦",
+        "agent": "云锐",
+        "agent_detail": "云锐全称test",
+        "rebate": "1.14",
+        "recharge_money": 114,
+        "cost": 688.84,
+        "balance": 418583
+      },
+      {
+        "id": "3",
+        "status": "1",
+        "date": "2018-05-15 00:00:00",
+        "money": "1000",
+        "mark": "测试",
+        "account_id": "3415636",
+        "account_name": "1517466390",
+        "author": "张建邦",
+        "agent": "云锐",
+        "agent_detail": "云锐全称test",
+        "rebate": "1.14",
+        "recharge_money": 1140,
+        "cost": 688.84,
+        "balance": 418583
+      },
+      {
+        "id": "20",
+        "status": "0",
+        "date": "2018-05-28 00:00:00",
+        "money": "100",
+        "mark": "1",
+        "account_id": "3415636",
+        "account_name": "1517466390",
+        "author": "张建邦",
+        "agent": "云锐",
+        "agent_detail": "云锐全称test",
+        "rebate": "1.14",
+        "recharge_money": 114,
+        "cost": 688.84,
+        "balance": 418583
+      }
+    ]
+  }
+}

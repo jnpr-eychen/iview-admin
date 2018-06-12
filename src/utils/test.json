@@ -1,0 +1,113 @@
+{
+  "ret": 1,
+  "msg": "success",
+  "data": {
+    "type": "see",
+    "allGrantAcList": {
+      "331": {
+        "inChargeName": "\u674e\u80dc\u4e1c",
+        "list": {
+          "3": {
+            "mediaTypeName": "UC",
+            "list": {
+              "207326439": "\u8d2a\u73a9UC-7",
+              "207326441": "\u8d2a\u73a9UC-9",
+              "207326455": "\u8d2a\u73a9UC-21"
+            }
+          }
+        }
+      },
+      "337": {
+        "inChargeName": "\u6881\u6587\u4fca",
+        "list": {
+          "3": {
+            "mediaTypeName": "UC",
+            "list": {
+              "207326447": "\u8d2a\u73a9UC-14",
+              "207326461": "\u8d2a\u73a9UC-26",
+              "207326462": "\u8d2a\u73a9UC-27",
+              "207354469": "\u8d2a\u73a9UC-31",
+              "207354474": "\u8d2a\u73a9UC-33",
+              "207354475": "\u8d2a\u73a9UC-34"
+            }
+          }
+        }
+      },
+      "335": {
+        "inChargeName": "\u6b65\u6e29\u6167",
+        "list": {
+          "3": {
+            "mediaTypeName": "UC",
+            "list": {
+              "207326450": "\u8d2a\u73a9UC-17",
+              "207326451": "\u8d2a\u73a9UC-18",
+              "207326458": "\u8d2a\u73a9UC-24"
+            }
+          }
+        }
+      },
+      "332": {
+        "inChargeName": "\u5434\u798f\u6c5f",
+        "list": {
+          "3": {
+            "mediaTypeName": "UC",
+            "list": { "207326457": "\u8d2a\u73a9UC-23" }
+          }
+        }
+      }
+    },
+    "userGrantAcList": {
+      "332": {
+        "inChargeName": "\u5434\u798f\u6c5f",
+        "list": {
+          "3": {
+            "mediaTypeName": "UC",
+            "list": { "207326457": "\u8d2a\u73a9UC-23" }
+          }
+        }
+      },
+      "331": {
+        "inChargeName": "\u674e\u80dc\u4e1c",
+        "list": {
+          "3": {
+            "mediaTypeName": "UC",
+            "list": {
+              "207326455": "\u8d2a\u73a9UC-21",
+              "207326441": "\u8d2a\u73a9UC-9",
+              "207326439": "\u8d2a\u73a9UC-7"
+            }
+          }
+        }
+      },
+      "335": {
+        "inChargeName": "\u6b65\u6e29\u6167",
+        "list": {
+          "3": {
+            "mediaTypeName": "UC",
+            "list": {
+              "207326450": "\u8d2a\u73a9UC-17",
+              "207326458": "\u8d2a\u73a9UC-24",
+              "207326451": "\u8d2a\u73a9UC-18"
+            }
+          }
+        }
+      },
+      "337": {
+        "inChargeName": "\u6881\u6587\u4fca",
+        "list": {
+          "3": {
+            "mediaTypeName": "UC",
+            "list": {
+              "207354475": "\u8d2a\u73a9UC-34",
+              "207354474": "\u8d2a\u73a9UC-33",
+              "207326462": "\u8d2a\u73a9UC-27",
+              "207354469": "\u8d2a\u73a9UC-31",
+              "207326461": "\u8d2a\u73a9UC-26",
+              "207326447": "\u8d2a\u73a9UC-14"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+
+@font-face {font-family: "chovitaminljy_icon";
+  src: url('iconfont.eot?t=1522939290725'); /* IE9*/
+  src: url('iconfont.eot?t=1522939290725#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff;charset=utf-8;base64,d09GRgABAAAAAAVAAAsAAAAAB7gAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABHU1VCAAABCAAAADMAAABCsP6z7U9TLzIAAAE8AAAAQwAAAFZW7kgLY21hcAAAAYAAAABbAAABhpk8Br5nbHlmAAAB3AAAAWEAAAF897YTEmhlYWQAAANAAAAALwAAADYRTPExaGhlYQAAA3AAAAAeAAAAJAgzA+RobXR4AAADkAAAAAwAAAAMDEkAAGxvY2EAAAOcAAAACAAAAAgAdgC+bWF4cAAAA6QAAAAfAAAAIAESAF1uYW1lAAADxAAAAVIAAAKR0Kew33Bvc3QAAAUYAAAAJQAAADbR8lLgeJxjYGRgYOBikGPQYWB0cfMJYeBgYGGAAJAMY05meiJQDMoDyrGAaQ4gZoOIAgCKIwNPAHicY2BkkWCcwMDKwMHUyXSGgYGhH0IzvmYwYuRgYGBiYGVmwAoC0lxTGBwYKp4xMjf8b2CIYW5gaAAKM4LkANsUC44AeJzFkMENgDAMAy9t6QMxCA8G4sUcnbhrtCYKDyaoJceKYylRgA3I4iUWsAfjxS3X3M/s7hfPVKmRaN3GUP+pIppV16RSWQZbt/qPw+sZnb5CC+rEHiRNT1cLkwB4nB2PPU7DQBCFZ9bxOgmxje31T9ZxEsc4zg9EsnHSIJKGBkSBQBSUHADaNBRukCgoOANCQqLgBLkDZ0BQcAOEBIENo9FIM+97Iz2QAX5fpYXkgQU9SGEPjgCQDrGjkQDDJB+RIdqhbLtMk5IoCZWoM5J20e1Q5mSTvOtSheqoYRO3w2ySjEiC43xKdjBzAsS6z0/MuGFKd1j1kub18oDco92KGvp0a7m/OWNZ2yrPa6ZZN83bMpXlMiElXcML16nIlSpdPsg6txetPmlhrZ7wwzO17ZvnN/llELsVxKJAy29rjzODG6KvuGOZdWVdLXtcjTYYzt/XPKsWdN9AlCSyFqVTqQADmjAAiLsJdvNJJj5NMocpSKMRjg1xcWyDUTnsCFXEchglA0tbPmtBrGGKqR4Hq40x3+/5Pn58VxjnTPoUs48qHv/rL5gKXhcccka+BMt+FMafVpaeD/AHG9M8qAAAAHicY2BkYGAA4hkb2J/E89t8ZeBmYQCBa2/CZiHo/w0socwNQC4HAxNIFABMfQutAHicY2BkYGBu+N/AEMOSwAAELKEMjAyogBkAVrgDIQAABAAAAAPpAAAEYAAAAAAAAAB2AL54nGNgZGBgYGYIZGBlAAEmIOYCQgaG/2A+AwAQ9wFwAHicdZDNSsNAFIVP+icm4EKx63GjoJD+bISCq0LrukK3JU0nbUr+mE4L3fgGLnwen8IX0Kdw72l6C6Vohrl898y5J8MAuMQXHOy/a+49O/DY7bmCMyjhKvU74Rq5K1wnPwk3yM/CLh7wIuzhCq9McGrn7O7xLuygiQ/hCi7wKVyl/i1cI/8I19F0POEG+UbYxdh5FPZw67y5faMDq2dqulVxmGdRnll3VyZRkMbJdqTn6yQwR8oRjrVZxXmmOn77SB3qTJtD5moz71obqcjkqRrQpJMkV4XJlzq0/sLaotdqRaL7YZ7yin0YaASwrDM+6xRb1hghcmSIymrpO9CEFCClI6FzxKk51uSAOX97/lbHnDRYsdudKnTgo/2Pd0hvVvpP77nChv/vUrWcUNyGCSlpIEmaCQlZoSjPllRC6j4W5VSBHlpc0YnfL18g/QX373i7AAB4nGNgYoAALgbsgJmRiZGZkYWBsYIjJb88Lyc/MYWBAQAfXQP1AAAA') format('woff'),
+  url('iconfont.ttf?t=1522939290725') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1522939290725#chovitaminljy_icon') format('svg'); /* iOS 4.1- */
+}
+
+.ljy-icon {
+  font-family:"chovitaminljy_icon" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #ccc;
+}
+
+.icon-download:before { content: "\e601"; }

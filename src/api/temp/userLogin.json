@@ -1,0 +1,330 @@
+{
+  "ret": 1,
+  "msg": "succ",
+  "data": {
+    "sessionid": "j60ce16tupmrh9kdakh8rqu6u2",
+    "data": {
+      "access": [
+        {
+          "id": "1",
+          "title": "\u8d26\u6237\u603b\u89c8",
+          "path": "overview",
+          "name": "overview"
+        },
+        {
+          "id": "2",
+          "title": "\u8d26\u6237\u603b\u89c8",
+          "path": "overview/home_index",
+          "name": "home_index"
+        },
+        {
+          "id": "3",
+          "title": "\u5e7f\u70b9\u901a\u5b9e\u65f6\u6295\u653e",
+          "path": "time",
+          "name": "time"
+        },
+        {
+          "id": "4",
+          "title": "\u5b9e\u65f6\u6295\u653e\u8ba1\u5212",
+          "path": "time/time_plan",
+          "name": "time_plan"
+        },
+        {
+          "id": "5",
+          "title": "\u5b9e\u65f6\u6295\u653e\u5e7f\u544a",
+          "path": "time/time_ad",
+          "name": "time_ad"
+        },
+        {
+          "id": "6",
+          "title": "\u8d22\u52a1",
+          "path": "time/time_finance",
+          "name": "time_finance"
+        },
+        {
+          "id": "7",
+          "title": "\u8d44\u91d1\u6d41\u6c34",
+          "path": "time/time_finance/time_journal",
+          "name": "time_journal"
+        },
+        {
+          "id": "8",
+          "title": "\u8d22\u52a1\u4fe1\u606f",
+          "path": "time/time_finance/time_funds",
+          "name": "time_funds"
+        },
+        {
+          "id": "9",
+          "title": "\u5145\u503c\u8bb0\u5f55",
+          "path": "time/time_finance/time_rechargeRecord",
+          "name": "time_rechargeRecord"
+        },
+        {
+          "id": "10",
+          "title": "\u8f6c\u5e10\u8bb0\u5f55",
+          "path": "time/time_finance/time_transferAccounts",
+          "name": "time_transferAccounts"
+        },
+        {
+          "id": "11",
+          "title": "UC\u5b9e\u65f6\u6295\u653e",
+          "path": "uc",
+          "name": "uc"
+        },
+        {
+          "id": "12",
+          "title": "\u63a8\u5e7f\u7ba1\u7406",
+          "path": "uc/uc_advertiser",
+          "name": "uc_advertiser"
+        },
+        {
+          "id": "13",
+          "title": "\u63a8\u5e7f\u8ba1\u5212",
+          "path": "uc/uc_advertiser/uc_plan",
+          "name": "uc_plan"
+        },
+        {
+          "id": "14",
+          "title": "\u63a8\u5e7f\u5355\u5143",
+          "path": "uc/uc_advertiser/uc_unit",
+          "name": "uc_unit"
+        },
+        {
+          "id": "15",
+          "title": "\u521b\u610f",
+          "path": "uc/uc_advertiser/uc_creativity",
+          "name": "uc_creativity"
+        },
+        {
+          "id": "16",
+          "title": "\u6570\u636e\u62a5\u544a",
+          "path": "uc/uc_report",
+          "name": "uc_report"
+        },
+        {
+          "id": "17",
+          "title": "\u8d22\u52a1",
+          "path": "uc/uc_finance",
+          "name": "uc_finance"
+        },
+        {
+          "id": "18",
+          "title": "\u5145\u503c\u8bb0\u5f55",
+          "path": "uc/uc_finance/uc_rechargeRecord",
+          "name": "uc_rechargeRecord"
+        },
+        {
+          "id": "19",
+          "title": "\u8f6c\u5e10\u8bb0\u5f55",
+          "path": "uc/uc_finance/uc_transferAccounts",
+          "name": "uc_transferAccounts"
+        },
+        {
+          "id": "20",
+          "title": "\u4eca\u65e5\u5934\u6761\u6295\u653e",
+          "path": "tt",
+          "name": "tt"
+        },
+        {
+          "id": "21",
+          "title": "\u63a8\u5e7f\u7ba1\u7406",
+          "path": "tt/tt_advertiser",
+          "name": "tt_advertiser"
+        },
+        {
+          "id": "22",
+          "title": "\u5e7f\u544a\u7ec4",
+          "path": "tt/tt_advertiser/tt_campaign",
+          "name": "tt_campaign"
+        },
+        {
+          "id": "23",
+          "title": "\u5e7f\u544a\u8ba1\u5212",
+          "path": "tt/tt_advertiser/tt_ad",
+          "name": "tt_ad"
+        },
+        {
+          "id": "24",
+          "title": "\u521b\u610f",
+          "path": "tt/tt_advertiser/tt_creative",
+          "name": "tt_creative"
+        },
+        {
+          "id": "25",
+          "title": "\u6570\u636e\u62a5\u544a",
+          "path": "tt/tt_report",
+          "name": "tt_report"
+        },
+        {
+          "id": "26",
+          "title": "\u8d26\u6237\u62a5\u8868",
+          "path": "tt/tt_report/tt_statement",
+          "name": "tt_statement"
+        },
+        {
+          "id": "27",
+          "title": "\u53d7\u4f17\u5206\u6790",
+          "path": "tt/tt_report/tt_audience",
+          "name": "tt_audience"
+        },
+        {
+          "id": "28",
+          "title": "\u6548\u679c\u5e7f\u544a\u62a5\u8868",
+          "path": "tt/tt_report/tt_bid",
+          "name": "tt_bid"
+        },
+        {
+          "id": "29",
+          "title": "\u8d22\u52a1",
+          "path": "tt/tt_finance",
+          "name": "tt_finance"
+        },
+        {
+          "id": "30",
+          "title": "\u5145\u503c\u8bb0\u5f55",
+          "path": "tt/tt_finance/tt_rechargeRecord",
+          "name": "tt_rechargeRecord"
+        },
+        {
+          "id": "31",
+          "title": "\u8f6c\u5e10\u8bb0\u5f55",
+          "path": "tt/tt_finance/tt_transferAccounts",
+          "name": "tt_transferAccounts"
+        },
+        {
+          "id": "32",
+          "title": "\u767e\u5ea6\u6295\u653e",
+          "path": "bd",
+          "name": "bd"
+        },
+        {
+          "id": "33",
+          "title": "\u9996\u9875",
+          "path": "bd/bd_main",
+          "name": "bd_main"
+        },
+        {
+          "id": "34",
+          "title": "\u63a8\u5e7f\u7ba1\u7406",
+          "path": "bd/bd_advertiser",
+          "name": "bd_advertiser"
+        },
+        {
+          "id": "35",
+          "title": "\u63a8\u5e7f\u8ba1\u5212",
+          "path": "bd/bd_advertiser/bd_campaign",
+          "name": "bd_campaign"
+        },
+        {
+          "id": "36",
+          "title": "\u63a8\u5e7f\u5355\u5143",
+          "path": "bd/bd_advertiser/bd_adgroup",
+          "name": "bd_adgroup"
+        },
+        {
+          "id": "37",
+          "title": "\u63a8\u5e7f\u521b\u610f",
+          "path": "bd/bd_advertiser/bd_creative",
+          "name": "bd_creative"
+        },
+        {
+          "id": "38",
+          "title": "\u6e20\u9053\u4fe1\u606f",
+          "path": "channel",
+          "name": "channel"
+        },
+        {
+          "id": "39",
+          "title": "\u4ea7\u54c1\u603b\u89c8",
+          "path": "channel/channel_product",
+          "name": "channel_product"
+        },
+        {
+          "id": "40",
+          "title": "\u5a92\u4f53\u603b\u89c8",
+          "path": "channel/channel_media",
+          "name": "channel_media"
+        },
+        {
+          "id": "41",
+          "title": "\u8d26\u6237\u603b\u89c8",
+          "path": "channel/channel_account",
+          "name": "channel_account"
+        },
+        {
+          "id": "42",
+          "title": "\u8ba1\u5212\u603b\u89c8",
+          "path": "channel/channel_plan",
+          "name": "channel_plan"
+        },
+        {
+          "id": "43",
+          "title": "\u5e7f\u544a\u603b\u89c8",
+          "path": "channel/channel_ad",
+          "name": "channel_ad"
+        },
+        {
+          "id": "44",
+          "title": "\u8d26\u53f7\u7ba1\u7406",
+          "path": "setid",
+          "name": "setid"
+        },
+        {
+          "id": "45",
+          "title": "\u4fee\u6539\u4e2a\u4eba\u4fe1\u606f",
+          "path": "setid/setid_modprfpsw",
+          "name": "setid_modprfpsw"
+        },
+        {
+          "id": "46",
+          "title": "\u8d26\u53f7\u7ba1\u7406",
+          "path": "setid/setid_userlist",
+          "name": "setid_userlist"
+        },
+        {
+          "id": "47",
+          "title": "\u6743\u9650\u7ec4\u7ba1\u7406",
+          "path": "setid/setid_grouplist",
+          "name": "setid_grouplist"
+        },
+        {
+          "id": "48",
+          "title": "\u8d26\u6237\u65e5\u5fd7",
+          "path": "setid/setid_userlog",
+          "name": "setid_userlog"
+        },
+        {
+          "id": "49",
+          "title": "\u8d1f\u8d23\u4eba\u7ba1\u7406",
+          "path": "setid/setid_principal",
+          "name": "setid_principal"
+        },
+        {
+          "id": "50",
+          "title": "\u7cfb\u7edf\u8d26\u53f7\u7ba1\u7406",
+          "path": "setid/setid_systemsetid",
+          "name": "setid_systemsetid"
+        },
+        {
+          "id": "51",
+          "title": "\u7cfb\u7edf\u6d88\u606f",
+          "path": "setid/setid_systemmsg",
+          "name": "setid_systemmsg"
+        },
+        {
+          "id": "56",
+          "title": "\u83dc\u5355\u7ba1\u7406",
+          "path": "setid/setid_menu",
+          "name": "setid_menu"
+        },
+        {
+          "id": "59",
+          "title": "\u7cfb\u7edf\u8d26\u53f7\u6743\u9650\u7ba1\u7406",
+          "path": "setid/setid_systemstatussetid",
+          "name": "setid_systemstatussetid"
+        }
+      ],
+      "lastPage": "home_index"
+    }
+  }
+}

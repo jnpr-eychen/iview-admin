@@ -1,0 +1,528 @@
+{
+    "type": [{
+            "name": "分日",
+            "val_type": "Day"
+        },
+        {
+            "name": "分时",
+            "val_type": "Hour"
+        }
+    ],
+    "landing_type": [{
+            "name": "推广落地页",
+            "val_type": "LINK"
+        },
+        {
+            "name": "推广应用下载",
+            "val_type": "APP"
+        }
+    ],
+    "budget_mode": [{
+            "name": "不限",
+            "val_type": "BUDGET_MODE_INFINITE"
+        },
+        {
+            "name": "日预算",
+            "val_type": "BUDGET_MODE_DAY"
+        },
+        {
+            "name": "总预算",
+            "val_type": "BUDGET_MODE_TOTAL"
+        }
+    ],
+    "creative_opt_status": [{
+            "name": "启用",
+            "val_type": "CREATIVE_STATUS_ENABLE"
+        },
+        {
+            "name": "暂停",
+            "val_type": "CREATIVE_STATUS_DISABLE"
+        }, {
+            "name": "删除",
+            "val_type": "CREATIVE_STATUS_DELETE"
+        }
+    ],
+    "creative_status": [{
+            "name": "投放中",
+            "val_type": "CREATIVE_STATUS_DELIVERY_OK"
+        },
+        {
+            "name": "未到达投放时间",
+            "val_type": "CREATIVE_STATUS_NOT_START"
+        },
+        {
+            "name": "不在投放时段",
+            "val_type": "CREATIVE_STATUS_NO_SCHEDULE"
+        },
+        {
+            "name": "暂停",
+            "val_type": "CREATIVE_STATUS_DISABLE"
+        },
+        {
+            "name": "已被广告组暂停",
+            "val_type": "CREATIVE_STATUS_CAMPAIGN_DISABLE"
+        },
+        {
+            "name": "广告组超出预算",
+            "val_type": "CREATIVE_STATUS_CAMPAIGN_EXCEED"
+        },
+        {
+            "name": "新建审核中",
+            "val_type": "CREATIVE_STATUS_AUDIT"
+        },
+        {
+            "name": "修改审核中",
+            "val_type": "CREATIVE_STATUS_REAUDIT"
+        },
+        {
+            "name": "已删除",
+            "val_type": "CREATIVE_STATUS_DELETE"
+        },
+        {
+            "name": "已完成",
+            "val_type": "CREATIVE_STATUS_DONE"
+        },
+        {
+            "name": "广告计划暂停",
+            "val_type": "CREATIVE_STATUS_AD_DISABLE"
+        },
+        {
+            "name": "审核不通过",
+            "val_type": "CREATIVE_STATUS_AUDIT_DENY"
+        },
+        {
+            "name": "账户余额不足",
+            "val_type": "CREATIVE_STATUS_BALANCE_EXCEED"
+        },
+        {
+            "name": "超出预算",
+            "val_type": "CREATIVE_STATUS_BUDGET_EXCEED"
+        },
+        {
+            "name": "数据错误",
+            "val_type": "CREATIVE_STATUS_DATA_ERROR"
+        },
+        {
+            "name": "预上线",
+            "val_type": "CREATIVE_STATUS_PRE_ONLINE"
+        }
+    ],
+    "ad_campaign_status": [{
+            "name": "启用",
+            "val_type": "CAMPAIGN_STATUS_ENABLE：启用"
+        },
+        {
+            "name": "暂停",
+            "val_type": "CAMPAIGN_STATUS_DISABLE：暂停"
+        }
+    ],
+    "ad_opt_status": [{
+            "name": "启用",
+            "val_type": "AD_STATUS_ENABLE"
+        },
+        {
+            "name": "暂停",
+            "val_type": "AD_STATUS_DISABLE"
+        },
+        {
+            "name": "删除",
+            "val_type": "AD_STATUS_DELETE"
+        }
+    ],
+    "ad_status": [{
+            "name": "投放中",
+            "val_type": "AD_STATUS_DELIVERY_OK"
+        },
+        {
+            "name": "启用",
+            "val_type": "AD_STATUS_ENABLE"
+        },
+        {
+            "name": "暂停",
+            "val_type": "AD_STATUS_DISABLE"
+        },
+        {
+            "name": "新建审核中",
+            "val_type": "AD_STATUS_AUDIT"
+        },
+        {
+            "name": "修改审核中",
+            "val_type": "AD_STATUS_REAUDIT"
+        },
+        {
+            "name": "已完成",
+            "val_type": "AD_STATUS_DONE"
+        },
+        {
+            "name": "计划新建",
+            "val_type": "AD_STATUS_CREATE"
+        },
+        {
+            "name": "审核不通过",
+            "val_type": "AD_STATUS_AUDIT_DENY"
+        },
+        {
+            "name": "账户余额不足",
+            "val_type": "AD_STATUS_BALANCE_EXCEED"
+        },
+        {
+            "name": "超出预算",
+            "val_type": "AD_STATUS_BUDGET_EXCEED"
+        },
+        {
+            "name": "未到达投放时间",
+            "val_type": "AD_STATUS_NOT_START"
+        },
+        {
+            "name": "不在投放时段",
+            "val_type": "AD_STATUS_NO_SCHEDULE"
+        },
+        {
+            "name": "已被广告组暂停",
+            "val_type": "AD_STATUS_CAMPAIGN_DISABLE"
+        },
+        {
+            "name": "广告组超出预算",
+            "val_type": "AD_STATUS_CAMPAIGN_EXCEED"
+        },
+        {
+            "name": "已删除",
+            "val_type": "AD_STATUS_DELETE"
+        }
+    ],
+    "pricing": [{
+            "name": "CPC",
+            "cname": "点击量",
+            "val_type": "PRICING_CPC"
+        },
+        {
+            "name": "OCPC",
+            "cname": "转换量",
+            "val_type": "PRICING_OCPC"
+        },
+        {
+            "name": "CPM",
+            "cname": "展示量",
+            "val_type": "PRICING_CPM"
+        },
+        {
+            "name": "CPV",
+            "cname": "有效播放量",
+            "val_type": "PRICING_CPV"
+        },
+        {
+            "name": "OCPM",
+            "cname": "转换量",
+            "val_type": "PRICING_OCPM"
+        }
+    ],
+    "image_mode": [{
+            "name": "小图",
+            "val_type": "CREATIVE_IMAGE_MODE_SMALL"
+        },
+        {
+            "name": "大图",
+            "val_type": "CREATIVE_IMAGE_MODE_LARGE"
+        },
+        {
+            "name": "组图",
+            "val_type": "CREATIVE_IMAGE_MODE_GROUP"
+        },
+        {
+            "name": "视频",
+            "val_type": "CREATIVE_IMAGE_MODE_VIDEO"
+        },
+        {
+            "name": "GIF图",
+            "val_type": "CREATIVE_IMAGE_MODE_GIF"
+        },
+        {
+            "name": "大图竖图",
+            "val_type": "CREATIVE_IMAGE_MODE_LARGE_VERTICAL"
+        },
+        {
+            "name": "竖版视频",
+            "val_type": "CREATIVE_IMAGE_MODE_VIDEO_VERTICAL"
+        }
+    ],
+    "gender": [{
+            "val_type": "GENDER_UNLIMITED",
+            "name": "不限"
+        },
+        {
+            "val_type": "GENDER_MALE",
+            "name": "男"
+        },
+        {
+            "val_type": "GENDER_FEMALE",
+            "name": "女"
+        }
+    ],
+    "age": [{
+            "val_type": "AGE_BELOW_18",
+            "name": "<18"
+        },
+        {
+            "val_type": "AGE_BETWEEN_18_23",
+            "name": "18-23"
+        },
+        {
+            "val_type": "AGE_BETWEEN_24_30",
+            "name": "24-30"
+        },
+        {
+            "val_type": "AGE_BETWEEN_31_40",
+            "name": "31-40"
+        },
+        {
+            "val_type": "AGE_BETWEEN_41_49",
+            "name": "41-49"
+        },
+        {
+            "val_type": "AGE_ABOVE_50",
+            "name": ">=50"
+        }
+    ],
+    "platform": [{
+            "val_type": "IOS",
+            "name": "IOS"
+        },
+        {
+            "val_type": "ANDROID",
+            "name": "Android"
+        },
+        {
+            "val_type": "PC",
+            "name": "PC"
+        }
+    ],
+    "ac": [{
+            "val_type": "WIFI",
+            "name": "WIFI"
+        },
+        {
+            "val_type": "2G",
+            "name": "2G"
+        },
+        {
+            "val_type": "3G",
+            "name": "3G"
+        },
+        {
+            "val_type": "4G",
+            "name": "4G"
+        }
+    ],
+    "carrier": [{
+            "val_type": "MOBILE",
+            "name": "移动"
+        },
+        {
+            "val_type": "UNICOM",
+            "name": "联通"
+        },
+        {
+            "val_type": "TELCOM",
+            "name": "电信"
+        }
+    ],
+    "district": [{
+            "val_type": "CITY",
+            "name": "按省市"
+        },
+        {
+            "val_type": "COUNTY",
+            "name": "按区县"
+        }
+    ],
+    "activate_type": [{
+            "val_type": "WITH_IN_A_MONTH",
+            "name": "一个月以内"
+        }, {
+            "val_type": "ONE_MONTH_2_THREE_MONTH",
+            "name": "一个月到三个月"
+        },
+        {
+            "val_type": "THREE_MONTH_EAILIER",
+            "name": "三个月或更早"
+        }
+    ],
+    "android_osv": [{
+            "val_type": "0.0",
+            "name": "不限"
+        }, {
+            "val_type": "2.0",
+            "name": "Android 2.0"
+        }, {
+            "val_type": "2.1",
+            "name": "Android 2.1"
+        },
+        {
+            "val_type": "2.2",
+            "name": "Android 2.2"
+        },
+        {
+            "val_type": "2.3",
+            "name": "Android 2.3"
+        }, {
+            "val_type": "3.0",
+            "name": "Android 3.0"
+        },
+        {
+            "val_type": "3.1",
+            "name": "Android 3.1"
+        },
+        {
+            "val_type": "3.2",
+            "name": "Android 3.2"
+        }, {
+            "val_type": "4.0",
+            "name": "Android 4.0"
+        },
+        {
+            "val_type": "4.1",
+            "name": "Android 4.1"
+        },
+        {
+            "val_type": "4.2",
+            "name": "Android 4.2"
+        },
+        {
+            "val_type": "4.3",
+            "name": "Android 4.3"
+        }, {
+            "val_type": "4.4",
+            "name": "Android 4.4"
+        },
+        {
+            "val_type": "4.5",
+            "name": "Android 4.5"
+        },
+        {
+            "val_type": "5.0",
+            "name": "Android 5.0"
+        }
+    ],
+    "ios_osv": [{
+            "val_type": "0.0",
+            "name": "不限"
+        }, {
+            "val_type": "4.0",
+            "name": "iOS 4.0"
+        }, {
+            "val_type": "4.1",
+            "name": "iOS 4.1"
+        },
+        {
+            "val_type": "4.2",
+            "name": "iOS 4.2"
+        },
+        {
+            "val_type": "4.3",
+            "name": "iOS 4.3"
+        }, {
+            "val_type": "5.0",
+            "name": "iOS 5.0"
+        },
+        {
+            "val_type": "5.1",
+            "name": "iOS 5.1"
+        },
+        {
+            "val_type": "6.0",
+            "name": "iOS 6.0"
+        }, {
+            "val_type": "7.0",
+            "name": "iOS 7.0"
+        },
+        {
+            "val_type": "7.1",
+            "name": "iOS 7.1"
+        },
+        {
+            "val_type": "8.0",
+            "name": "iOS 8.0"
+        },
+        {
+            "val_type": "8.1",
+            "name": "iOS 8.1"
+        }, {
+            "val_type": "8.2",
+            "name": "iOS 8.2"
+        },
+        {
+            "val_type": "9.0",
+            "name": "iOS 9.0"
+        }
+    ],
+    "app_behavior_target": [{
+        "val_type": "NONE",
+        "name": "不限"
+    }, {
+        "val_type": "CATEGORY",
+        "name": "按分类"
+    }],
+    "flow_control_mode": [{
+        "val_type": "FLOW_CONTROL_MODE_SMOOTH",
+        "name": "标准投放"
+    }, {
+        "val_type": "FLOW_CONTROL_MODE_FAST",
+        "name": "尽快投放"
+    }],
+    "schedule_type": [{
+        "val_type": "SCHEDULE_FROM_NOW",
+        "name": "从现在开始一直投放"
+    }, {
+        "val_type": "SCHEDULE_START_END",
+        "name": "选择起始时间"
+    }],
+    "app_type": [{
+        "val_type": "APP_ANDROID",
+        "name": "Android"
+    }, {
+        "val_type": "APP_IOS",
+        "name": "iOS"
+    }],
+    "advanced_creative_type": [{
+            "val_type": "ATTACHED_CREATIVE_NONE",
+            "name": "无"
+        },
+        {
+            "val_type": "ATTACHED_CREATIVE_PHONE",
+            "name": "电话拨打"
+        },
+        {
+            "val_type": "ATTACHED_CREATIVE_FORM",
+            "name": "表单收集"
+        }
+    ],
+    "creative_display_mode": [{
+            "val_type": "CREATIVE_DISPLAY_MODE_CTR",
+            "name": "优选模式"
+        },
+        {
+            "val_type": "CREATIVE_DISPLAY_MODE_RANDOM",
+            "name": "轮播模式"
+        }
+    ],
+    "inventory_type": [{
+            "val_type": "INVENTORY_FEED",
+            "name": "头条信息流"
+        },
+        {
+            "val_type": "INVENTORY_TEXT_LINK",
+            "name": "头条文章详情页"
+        }, {
+            "val_type": "INVENTORY_VIDEO_FEED",
+            "name": "西瓜信息流"
+        },
+        {
+            "val_type": "INVENTORY_HOTSOON_FEED",
+            "name": "火山信息流"
+        },
+        {
+            "val_type": "INVENTORY_AWEME_FEED",
+            "name": "抖音信息流"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+  "ret": 1,
+  "msg": "succ",
+  "data":
+    "state,paused,cpc,cpm,click,ctr,download_complete,download_complete_rate,cost,cvr,install_per,conversion,app_reg_cost,reg_total,reg_cost,reg_per,reg_arpu,active,active_per,pay_num,pay_total,pay_per,income_per,platform,adResourceId"
+}

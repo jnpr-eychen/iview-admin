@@ -1,0 +1,4124 @@
+{
+  "ret": 1,
+  "msg": "succ",
+  "data": [
+    {
+      "name": "贪玩蓝月-安卓包",
+      "top": "13",
+      "game": [
+        {
+          "game_name": "传奇来了:(196)",
+          "game_id": "196",
+          "game_byname": "cqll"
+        },
+        {
+          "game_name": "炼狱传奇:(165)",
+          "game_id": "165",
+          "game_byname": "lianycq"
+        },
+        {
+          "game_name": "蓝月贪玩:(609)",
+          "game_id": "609",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "贪玩蓝月-古天乐:(190)",
+          "game_id": "190",
+          "game_byname": "wzcqgtl"
+        },
+        {
+          "game_name": "贪玩蓝月-古天乐（新）:(749)",
+          "game_id": "749",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "贪玩蓝月-孙红雷:(191)",
+          "game_id": "191",
+          "game_byname": "wzcqshl"
+        },
+        {
+          "game_name": "贪玩蓝月-小包:(735)",
+          "game_id": "735",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "贪玩蓝月-张家辉:(197)",
+          "game_id": "197",
+          "game_byname": "wzcqzjh"
+        },
+        {
+          "game_name": "贪玩蓝月-戒指:(156)",
+          "game_id": "156",
+          "game_byname": "wzcq"
+        },
+        {
+          "game_name": "贪玩蓝月-戒指（新）:(768)",
+          "game_id": "768",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "贪玩蓝月-王者传奇:(231)",
+          "game_id": "231",
+          "game_byname": "wzcqcq"
+        },
+        {
+          "game_name": "贪玩蓝月-陈小春:(324)",
+          "game_id": "324",
+          "game_byname": "AllANT"
+        }
+      ]
+    },
+    {
+      "name": "贪玩蓝月-应用宝",
+      "top": "13",
+      "game": [
+        {
+          "game_name": "传奇之怒(应用宝):(482)",
+          "game_id": "482",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "渣渣辉传奇应用宝:(636)",
+          "game_id": "636",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "血战沙城(应用包):(501)",
+          "game_id": "501",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "裁决屠龙(应用包):(500)",
+          "game_id": "500",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "贪玩蓝月-应用宝:(238)",
+          "game_id": "238",
+          "game_byname": "twly"
+        },
+        {
+          "game_name": "贪玩蓝月应用宝:(635)",
+          "game_id": "635",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "雷霆斩龙(应用宝):(494)",
+          "game_id": "494",
+          "game_byname": "AllANT"
+        }
+      ]
+    },
+    {
+      "name": "贪玩蓝月-iOS包",
+      "top": "12",
+      "game": [
+        {
+          "game_name": "传奇来了(IOS):(182)",
+          "game_id": "182",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "剑指沙城(IOS):(212)",
+          "game_id": "212",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "屠龙传说(IOS):(211)",
+          "game_id": "211",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "格斗无双之主宰龙城(IOS):(344)",
+          "game_id": "344",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "渣渣辉传奇(IOS):(465)",
+          "game_id": "465",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "渣渣辉传奇3(IOS):(666)",
+          "game_id": "666",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "渣渣辉传奇4(IOS):(710)",
+          "game_id": "710",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "炼狱传奇(IOS):(164)",
+          "game_id": "164",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "烈火裁决(IOS):(271)",
+          "game_id": "271",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "独霸沙城(IOS):(169)",
+          "game_id": "169",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "王者传奇online(IOS):(175)",
+          "game_id": "175",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "盛世沙城(IOS):(279)",
+          "game_id": "279",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "贪玩屠龙(IOS):(269)",
+          "game_id": "269",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "贪玩狼月(IOS):(272)",
+          "game_id": "272",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "贪玩蓝月-复刻版(IOS):(303)",
+          "game_id": "303",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "贪玩蓝月-屠龙决战(IOS):(153)",
+          "game_id": "153",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "贪玩蓝月-张家辉(IOS):(185)",
+          "game_id": "185",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "贪玩蓝月-戒指-纯传奇(IOS):(186)",
+          "game_id": "186",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "贪玩蓝月-贪狼蓝月(IOS):(299)",
+          "game_id": "299",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "贪玩蓝月2-戒指-原版(IOS)(IOS):(217)",
+          "game_id": "217",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "贪玩蓝月HD(IOS):(270)",
+          "game_id": "270",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "贪玩蓝月OL(IOS):(378)",
+          "game_id": "378",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "贪玩蓝月Online(IOS):(360)",
+          "game_id": "360",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "贪玩蓝月热血版(IOS):(234)",
+          "game_id": "234",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "贪玩蓝月特别版(IOS):(368)",
+          "game_id": "368",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "贪玩蓝月美国账号(IOS):(367)",
+          "game_id": "367",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "贪玩蓝月重制版(IOS):(328)",
+          "game_id": "328",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "贪玩霸业(IOS):(183)",
+          "game_id": "183",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "超级蓝月(IOS):(498)",
+          "game_id": "498",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "醉卧沙城(IOS):(347)",
+          "game_id": "347",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "龙城王者(IOS):(184)",
+          "game_id": "184",
+          "game_byname": "AllIOS"
+        }
+      ]
+    },
+    {
+      "name": "王者专服2-iOS",
+      "top": "11",
+      "game": [
+        {
+          "game_name": "怒砍一刀(IOS):(395)",
+          "game_id": "395",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "渣渣辉蓝月(IOS):(700)",
+          "game_id": "700",
+          "game_byname": "AllIOS"
+        }
+      ]
+    },
+    {
+      "name": "王者专服2-安卓",
+      "top": "11",
+      "game": [
+        {
+          "game_name": "怒砍一刀:(694)",
+          "game_id": "694",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "渣渣辉传奇:(695)",
+          "game_id": "695",
+          "game_byname": "AllANT"
+        }
+      ]
+    },
+    {
+      "name": "H5-传奇来了-应用宝",
+      "top": "10",
+      "game": [
+        {
+          "game_name": "H5传奇来了(应用宝):(456)",
+          "game_id": "456",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5皇城之战(应用宝):(457)",
+          "game_id": "457",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5贪玩蓝月单机版(应用宝):(377)",
+          "game_id": "377",
+          "game_byname": "ALLH5"
+        }
+      ]
+    },
+    {
+      "name": "H5-传奇来了iOS",
+      "top": "10",
+      "game": [
+        {
+          "game_name": "H5传奇争霸(IOS):(200)",
+          "game_id": "200",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "H5传奇来了(IOS):(300)",
+          "game_id": "300",
+          "game_byname": "h5_cqll"
+        },
+        {
+          "game_name": "H5屠龙之刃（IOS）:(403)",
+          "game_id": "403",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5沙城争霸(IOS):(263)",
+          "game_id": "263",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "H5渣渣辉传奇(IOS):(233)",
+          "game_id": "233",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "H5热血屠龙(IOS):(301)",
+          "game_id": "301",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5王城霸业(IOS)-迭代过审:(244)",
+          "game_id": "244",
+          "game_byname": "h5_kangfuzl"
+        },
+        {
+          "game_name": "H5王城霸业（ios）:(383)",
+          "game_id": "383",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5皇城之战(IOS):(232)",
+          "game_id": "232",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "H5盛世霸业(IOS):(356)",
+          "game_id": "356",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "H5至尊单机IOS:(618)",
+          "game_id": "618",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月争霸(IOS):(215)",
+          "game_id": "215",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "H5蓝月争霸-3(IOS):(361)",
+          "game_id": "361",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月传奇(IOS):(214)",
+          "game_id": "214",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "H5蓝月单机版(IOS):(207)",
+          "game_id": "207",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "H5蓝月贪玩(IOS):(203)",
+          "game_id": "203",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "H5贪玩蓝月(IOS):(209)",
+          "game_id": "209",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "H5贪玩蓝月单机版(IOS):(656)",
+          "game_id": "656",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5雷霆之怒(IOS):(216)",
+          "game_id": "216",
+          "game_byname": "AllIOS"
+        }
+      ]
+    },
+    {
+      "name": "H5-传奇来了安卓",
+      "top": "10",
+      "game": [
+        {
+          "game_name": "H5渣渣辉传奇-传奇来了旧服新对接（Android）:(605)",
+          "game_id": "605",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5王者传奇:(219)",
+          "game_id": "219",
+          "game_byname": "h5_wzcq"
+        },
+        {
+          "game_name": "H5蓝月单机版-传奇来了旧服新接（Android）:(604)",
+          "game_id": "604",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "传奇来了老服服旧接:(218)",
+          "game_id": "218",
+          "game_byname": "ALLH5"
+        }
+      ]
+    },
+    {
+      "name": "H5-传奇来了直链",
+      "top": "10",
+      "game": [
+        {
+          "game_name": "H5传奇来了-旧服新接-直链:(521)",
+          "game_id": "521",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5王者传奇(直链):(230)",
+          "game_id": "230",
+          "game_byname": "h5_wzcqzl"
+        },
+        {
+          "game_name": "H5贪玩蓝月单机版链接包:(225)",
+          "game_id": "225",
+          "game_byname": "h5_twlydjblj"
+        }
+      ]
+    },
+    {
+      "name": "H5-传奇来了专服2-安卓",
+      "top": "9",
+      "game": [
+        {
+          "game_name": "H5王城霸业（纯传奇专服）(Android):(510)",
+          "game_id": "510",
+          "game_byname": "ALLH5"
+        }
+      ]
+    },
+    {
+      "name": "贪玩传世-iOS",
+      "top": "9",
+      "game": [
+        {
+          "game_name": "传世之怒(IOS):(520)",
+          "game_id": "520",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "传世争霸(IOS):(702)",
+          "game_id": "702",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "传世归来(IOS):(701)",
+          "game_id": "701",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "传世手游版(IOS):(399)",
+          "game_id": "399",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "传世来了-灭天一剑2(IOS):(532)",
+          "game_id": "532",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "传世永恒2(IOS):(718)",
+          "game_id": "718",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "兄弟传世(IOS):(519)",
+          "game_id": "519",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "永恒裁决(IOS):(413)",
+          "game_id": "413",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "王者传世3(IOS):(719)",
+          "game_id": "719",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "破天战神(IOS):(414)",
+          "game_id": "414",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "血煞屠龙(IOS):(422)",
+          "game_id": "422",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "贪玩传世(IOS):(296)",
+          "game_id": "296",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "贪玩传世HD(IOS):(407)",
+          "game_id": "407",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "贪玩传世加强版(IOS):(389)",
+          "game_id": "389",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "龙城尊主(IOS):(363)",
+          "game_id": "363",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "龙腾传世(IOS):(355)",
+          "game_id": "355",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "龙腾传世2(IOS):(419)",
+          "game_id": "419",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "龙腾传世4(IOS):(630)",
+          "game_id": "630",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "龙腾传世至尊版(IOS):(473)",
+          "game_id": "473",
+          "game_byname": "AllIOS"
+        }
+      ]
+    },
+    {
+      "name": "贪玩传世-安卓",
+      "top": "9",
+      "game": [
+        {
+          "game_name": "贪玩传世(新):(467)",
+          "game_id": "467",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "贪玩传世(旧):(294)",
+          "game_id": "294",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "贪玩传世-传奇世界:(384)",
+          "game_id": "384",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "贪玩传世-陈小春:(295)",
+          "game_id": "295",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "贪玩传世-龙腾传世:(386)",
+          "game_id": "386",
+          "game_byname": "AllANT"
+        }
+      ]
+    },
+    {
+      "name": "贪玩传世-应用宝",
+      "top": "9",
+      "game": [
+        {
+          "game_name": "传世加强版(应用宝):(476)",
+          "game_id": "476",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "传世合击版(应用宝):(522)",
+          "game_id": "522",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "传世霸业(应用宝):(739)",
+          "game_id": "739",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "宝刀屠龙传(应用包):(503)",
+          "game_id": "503",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "狂怒战神(应用宝):(495)",
+          "game_id": "495",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "至尊传世(应用宝):(492)",
+          "game_id": "492",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "至尊传世(废弃-应用宝):(477)",
+          "game_id": "477",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "血燃沙城(应用宝):(497)",
+          "game_id": "497",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "龙腾传世元神合击(应用宝广点通):(475)",
+          "game_id": "475",
+          "game_byname": "AllANT"
+        }
+      ]
+    },
+    {
+      "name": "贪玩传世小包-安卓",
+      "top": "9",
+      "game": [
+        {
+          "game_name": "贪玩传世(小):(730)",
+          "game_id": "730",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "龙腾传世-小包:(738)",
+          "game_id": "738",
+          "game_byname": "AllANT"
+        }
+      ]
+    },
+    {
+      "name": "龙腾传世-联运",
+      "top": "9",
+      "game": [
+        {
+          "game_name": "龙腾传世:(247)",
+          "game_id": "247",
+          "game_byname": "ltcs"
+        }
+      ]
+    },
+    {
+      "name": "一品官老爷-安卓应用宝",
+      "top": "8",
+      "game": [
+        {
+          "game_name": "一品官老爷HD(应用宝):(711)",
+          "game_id": "711",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "九品芝麻官(应用宝):(654)",
+          "game_id": "654",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "极品小县令(应用宝):(628)",
+          "game_id": "628",
+          "game_byname": "AllANT"
+        }
+      ]
+    },
+    {
+      "name": "一品官老爷iOS-混服",
+      "top": "8",
+      "game": [
+        {
+          "game_name": "一品大官人(IOS):(626)",
+          "game_id": "626",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "一品官老爷(IOS):(353)",
+          "game_id": "353",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "一品官老爷-王刚(IOS):(406)",
+          "game_id": "406",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "一品官老爷2(IOS):(372)",
+          "game_id": "372",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "一品官老爷4(IOS):(676)",
+          "game_id": "676",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "九品县太爷(IOS):(370)",
+          "game_id": "370",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "九品芝麻官(IOS):(284)",
+          "game_id": "284",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "官人我要(IOS):(282)",
+          "game_id": "282",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "小宝升官记(IOS):(283)",
+          "game_id": "283",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "小宝升官记2(IOS):(315)",
+          "game_id": "315",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "小小县令(IOS):(371)",
+          "game_id": "371",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "布衣当官(IOS):(317)",
+          "game_id": "317",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "开局小县令(IOS):(437)",
+          "game_id": "437",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "无双小县令(IOS):(463)",
+          "game_id": "463",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "极品县太爷(IOS):(369)",
+          "game_id": "369",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "极品小县令(IOS):(316)",
+          "game_id": "316",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "极品摄政王(IOS):(732)",
+          "game_id": "732",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "贪玩芝麻官(IOS):(285)",
+          "game_id": "285",
+          "game_byname": "AllIOS"
+        }
+      ]
+    },
+    {
+      "name": "官人我要-安卓（专服）",
+      "top": "8",
+      "game": [
+        {
+          "game_name": "一品官老爷:(350)",
+          "game_id": "350",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "官人我要:(291)",
+          "game_id": "291",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "小宝升官记:(310)",
+          "game_id": "310",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "少年大钦差:(314)",
+          "game_id": "314",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "极品小县令:(311)",
+          "game_id": "311",
+          "game_byname": "AllANT"
+        }
+      ]
+    },
+    {
+      "name": "一品官老爷-安卓（混服）",
+      "top": "7",
+      "game": [
+        {
+          "game_name": "一品官老爷(混服):(373)",
+          "game_id": "373",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "九品县太爷(混服):(365)",
+          "game_id": "365",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "小小县令(混服):(352)",
+          "game_id": "352",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "极品县太爷(混服):(351)",
+          "game_id": "351",
+          "game_byname": "AllANT"
+        }
+      ]
+    },
+    {
+      "name": "H5-妖怪宝可萌",
+      "top": "6",
+      "game": [
+        {
+          "game_name": "H5妖怪宝可萌(Android):(627)",
+          "game_id": "627",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5妖怪宝可萌（主-wap）:(599)",
+          "game_id": "599",
+          "game_byname": "ALLH5"
+        }
+      ]
+    },
+    {
+      "name": "蓝月传奇手游-安卓",
+      "top": "6",
+      "game": [
+        {
+          "game_name": "待定游戏:(715)",
+          "game_id": "715",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "热血合击-蓝月传奇:(462)",
+          "game_id": "462",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "热血合击:(343)",
+          "game_id": "343",
+          "game_byname": "AllANT"
+        }
+      ]
+    },
+    {
+      "name": "H5-梦道iOS",
+      "top": "5",
+      "game": [
+        {
+          "game_name": "H5 梦道无双版(IOS):(657)",
+          "game_id": "657",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5单机西游(IOS):(681)",
+          "game_id": "681",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5西游单机版(IOS):(622)",
+          "game_id": "622",
+          "game_byname": "ALLH5"
+        }
+      ]
+    },
+    {
+      "name": "H5-梦道安卓",
+      "top": "5",
+      "game": [
+        {
+          "game_name": "H5梦道(Android):(499)",
+          "game_id": "499",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5梦道-直链(WAP):(485)",
+          "game_id": "485",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5梦道混服（WAP）:(493)",
+          "game_id": "493",
+          "game_byname": "ALLH5"
+        }
+      ]
+    },
+    {
+      "name": "H5-蓝月争霸-新游iOS",
+      "top": "5",
+      "game": [
+        {
+          "game_name": "H5火龙合击版(IOS):(551)",
+          "game_id": "551",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5火龙合击（IOS）:(620)",
+          "game_id": "620",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5（IOS）血饮之刃:(202)",
+          "game_id": "202",
+          "game_byname": "ALLH5"
+        }
+      ]
+    },
+    {
+      "name": "H5-蓝月争霸-新游安卓",
+      "top": "5",
+      "game": [
+        {
+          "game_name": "H5蓝月争霸(应用宝):(454)",
+          "game_id": "454",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月争霸-新游(Android):(603)",
+          "game_id": "603",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月争霸-新游（主-wap）:(490)",
+          "game_id": "490",
+          "game_byname": "ALLH5"
+        }
+      ]
+    },
+    {
+      "name": "青云诀",
+      "top": "5",
+      "game": [
+        {
+          "game_name": "九州云牧纪(IOS):(412)",
+          "game_id": "412",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "九州云牧纪:(453)",
+          "game_id": "453",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "八荒云牧纪(IOS):(448)",
+          "game_id": "448",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "绝世武魂(IOS:(181)",
+          "game_id": "181",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "绝世武魂(择天纪):(189)",
+          "game_id": "189",
+          "game_byname": "jswhztj"
+        },
+        {
+          "game_name": "绝世武魂(楚乔仙妃):(213)",
+          "game_id": "213",
+          "game_byname": "jswhcqxf"
+        },
+        {
+          "game_name": "绝世武魂:(180)",
+          "game_id": "180",
+          "game_byname": "jswh"
+        }
+      ]
+    },
+    {
+      "name": "H5盛世霸业",
+      "top": "4",
+      "game": [
+        {
+          "game_name": "H5热血攻沙(IOS):(187)",
+          "game_id": "187",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "H5热血攻沙(安卓):(188)",
+          "game_id": "188",
+          "game_byname": "rxgs"
+        },
+        {
+          "game_name": "H5盛世霸业(混服):(280)",
+          "game_id": "280",
+          "game_byname": "h5_ssbyhf"
+        },
+        {
+          "game_name": "H5盛世霸业:(220)",
+          "game_id": "220",
+          "game_byname": "h5_ssby"
+        },
+        {
+          "game_name": "H5盛世霸业:(226)",
+          "game_id": "226",
+          "game_byname": "h5_cqdjb"
+        }
+      ]
+    },
+    {
+      "name": "军师天下",
+      "top": "4",
+      "game": [
+        {
+          "game_name": "军师天下(IOS):(250)",
+          "game_id": "250",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "军师天下:(178)",
+          "game_id": "178",
+          "game_byname": "jstx"
+        },
+        {
+          "game_name": "谋略三国(IOS):(179)",
+          "game_id": "179",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "铁骑天下(IOS):(252)",
+          "game_id": "252",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "铁骑天下(IOS):(257)",
+          "game_id": "257",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "铁骑江山:(259)",
+          "game_id": "259",
+          "game_byname": "AllANT"
+        }
+      ]
+    },
+    {
+      "name": "剑逆苍穹-安卓",
+      "top": "4",
+      "game": [
+        {
+          "game_name": "仗剑九州:(783)",
+          "game_id": "783",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "剑逆苍穹:(743)",
+          "game_id": "743",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "山海捕兽纪:(759)",
+          "game_id": "759",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "莽荒记:(755)",
+          "game_id": "755",
+          "game_byname": "AllANT"
+        }
+      ]
+    },
+    {
+      "name": "剑雨蜀山",
+      "top": "4",
+      "game": [
+        {
+          "game_name": "剑雨蜀山(哔哔游戏):(93)",
+          "game_id": "93",
+          "game_byname": "jysshhyx"
+        },
+        {
+          "game_name": "剑雨蜀山:(51)",
+          "game_id": "51",
+          "game_byname": "jyss"
+        },
+        {
+          "game_name": "天剑逍遥:(73)",
+          "game_id": "73",
+          "game_byname": "tjxy"
+        },
+        {
+          "game_name": "幻城修仙录(弘贯):(72)",
+          "game_id": "72",
+          "game_byname": "qyzhg"
+        },
+        {
+          "game_name": "神魔侠侣:(256)",
+          "game_id": "256",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "蜀中悍刀行:(36)",
+          "game_id": "36",
+          "game_byname": "szhdx"
+        },
+        {
+          "game_name": "蜀山天下:(83)",
+          "game_id": "83",
+          "game_byname": "sstx"
+        },
+        {
+          "game_name": "蜀山奇谭:(88)",
+          "game_id": "88",
+          "game_byname": "jyss9665"
+        },
+        {
+          "game_name": "蜀山逍遥令:(33)",
+          "game_id": "33",
+          "game_byname": "ssxyl"
+        },
+        {
+          "game_name": "青云传(弘贯):(89)",
+          "game_id": "89",
+          "game_byname": "qyzzhg"
+        }
+      ]
+    },
+    {
+      "name": "剑雨蜀山iOS",
+      "top": "4",
+      "game": [
+        {
+          "game_name": "仙逆苍穹(IOS):(111)",
+          "game_id": "111",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "再战蜀山(IOS):(160)",
+          "game_id": "160",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "剑与仙盟(IOS):(66)",
+          "game_id": "66",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "剑王朝(IOS):(134)",
+          "game_id": "134",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "剑雨蜀山(IOS):(54)",
+          "game_id": "54",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "将夜君王(IOS):(100)",
+          "game_id": "100",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "我欲遮天(IOS):(110)",
+          "game_id": "110",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "蜀中悍刀行(IOS):(85)",
+          "game_id": "85",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "蜀山天下(IOS):(57)",
+          "game_id": "57",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "蜀山天下2(IOS):(133)",
+          "game_id": "133",
+          "game_byname": "AllIOS"
+        }
+      ]
+    },
+    {
+      "name": "帝国列强纷争",
+      "top": "4",
+      "game": [
+        {
+          "game_name": "全面战争(IOS):(91)",
+          "game_id": "91",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "列强纷争(IOS):(92)",
+          "game_id": "92",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "列王战争(IOS):(158)",
+          "game_id": "158",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "帝国列强纷争:(96)",
+          "game_id": "96",
+          "game_byname": "dglqfz"
+        },
+        {
+          "game_name": "帝国征服者:(76)",
+          "game_id": "76",
+          "game_byname": "dgzfz"
+        },
+        {
+          "game_name": "帝国时代(IOS):(97)",
+          "game_id": "97",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "帝国时代6(IOS):(144)",
+          "game_id": "144",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "帝王文明(IOS):(143)",
+          "game_id": "143",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "帝王风云(IOS):(142)",
+          "game_id": "142",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "罗马崛起(IOS):(141)",
+          "game_id": "141",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "罗马文明(IOS):(150)",
+          "game_id": "150",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "罗马雄风(IOS):(98)",
+          "game_id": "98",
+          "game_byname": "AllIOS"
+        }
+      ]
+    },
+    {
+      "name": "拜见包大人-自研",
+      "top": "4",
+      "game": [
+        {
+          "game_name": "一品包青天:(747)",
+          "game_id": "747",
+          "game_byname": "AllANT"
+        }
+      ]
+    },
+    {
+      "name": "石器挂机-iOS",
+      "top": "4",
+      "game": [
+        {
+          "game_name": "机暴时代(IOS):(607)",
+          "game_id": "607",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "石器单机版(IOS):(506)",
+          "game_id": "506",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "石器部落(IOS):(617)",
+          "game_id": "617",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "野蛮人部落(IOS):(606)",
+          "game_id": "606",
+          "game_byname": "AllIOS"
+        }
+      ]
+    },
+    {
+      "name": "石器挂机-安卓",
+      "top": "4",
+      "game": [
+        {
+          "game_name": "石器单机版:(505)",
+          "game_id": "505",
+          "game_byname": "AllANT"
+        }
+      ]
+    },
+    {
+      "name": "绝世蜀门",
+      "top": "4",
+      "game": [
+        {
+          "game_name": "将夜遮天(IOS):(170)",
+          "game_id": "170",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "武道乾坤OL(IOS):(168)",
+          "game_id": "168",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "永恒仙途(IOS):(163)",
+          "game_id": "163",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "笑傲乾坤:(177)",
+          "game_id": "177",
+          "game_byname": "wdqk"
+        },
+        {
+          "game_name": "绝世蜀门(IOS):(139)",
+          "game_id": "139",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "绝世蜀门:(138)",
+          "game_id": "138",
+          "game_byname": "jssm"
+        }
+      ]
+    },
+    {
+      "name": "苍穹绝仙iOS",
+      "top": "4",
+      "game": [
+        {
+          "game_name": "剑仙天下(IOS-雪糕):(56)",
+          "game_id": "56",
+          "game_byname": "jxtxIOS"
+        },
+        {
+          "game_name": "剑仙奇缘(IOS):(64)",
+          "game_id": "64",
+          "game_byname": "xjqyIOS"
+        },
+        {
+          "game_name": "幻世绝仙(IOS):(242)",
+          "game_id": "242",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "斗破神魔(IOS):(102)",
+          "game_id": "102",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "梦幻绝仙(IOS):(65)",
+          "game_id": "65",
+          "game_byname": "mhjxIOS"
+        },
+        {
+          "game_name": "苍穹弑仙(IOS):(70)",
+          "game_id": "70",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "苍穹绝仙(IOS):(42)",
+          "game_id": "42",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "苍穹绝仙iOS-雪糕专服:(53)",
+          "game_id": "53",
+          "game_byname": "cqzxIOS_xgzf"
+        },
+        {
+          "game_name": "苍穹诛仙(IOS):(47)",
+          "game_id": "47",
+          "game_byname": "cqzxIOS"
+        },
+        {
+          "game_name": "苍穹诛仙(IOS高清版):(50)",
+          "game_id": "50",
+          "game_byname": "cqzxIOSGQ"
+        },
+        {
+          "game_name": "逆天问道(IOS-雪糕):(55)",
+          "game_id": "55",
+          "game_byname": "ntwdIOS"
+        }
+      ]
+    },
+    {
+      "name": "魔法门传承",
+      "top": "4",
+      "game": [
+        {
+          "game_name": "埃拉西亚之刃(IOS):(117)",
+          "game_id": "117",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "恩洛斯传说(IOS):(157)",
+          "game_id": "157",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "死亡阴影(IOS):(116)",
+          "game_id": "116",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "热血至尊（iOS）:(746)",
+          "game_id": "746",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "魔法门传承(IOS):(125)",
+          "game_id": "125",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "魔法门传承:(115)",
+          "game_id": "115",
+          "game_byname": "mfmcc"
+        },
+        {
+          "game_name": "魔法门传说(IOS):(118)",
+          "game_id": "118",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "魔法门死亡阴影(IOS):(161)",
+          "game_id": "161",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "魔法门英雄无敌(IOS):(140)",
+          "game_id": "140",
+          "game_byname": "AllIOS"
+        }
+      ]
+    },
+    {
+      "name": "H5-诸王之王",
+      "top": "3",
+      "game": [
+        {
+          "game_name": "H5战争与王座(IOS):(430)",
+          "game_id": "430",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5王权纷争(IOS):(433)",
+          "game_id": "433",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5诸王之王(Android):(410)",
+          "game_id": "410",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5诸王之王(IOS):(409)",
+          "game_id": "409",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5诸王之王:(408)",
+          "game_id": "408",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5诸王纪元(IOS):(439)",
+          "game_id": "439",
+          "game_byname": "ALLH5"
+        }
+      ]
+    },
+    {
+      "name": "兽人战争",
+      "top": "3",
+      "game": [
+        {
+          "game_name": "MT王者(IOS):(126)",
+          "game_id": "126",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "兽人战争(IOS):(79)",
+          "game_id": "79",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "兽人战争(非和谐包):(103)",
+          "game_id": "103",
+          "game_byname": "srzzfhxb"
+        },
+        {
+          "game_name": "兽人战争2(IOS):(119)",
+          "game_id": "119",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "兽人战争:(77)",
+          "game_id": "77",
+          "game_byname": "srzz"
+        },
+        {
+          "game_name": "军团再临(IOS):(80)",
+          "game_id": "80",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "卡牌魔兽(IOS):(121)",
+          "game_id": "121",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "少年魔兽军团(IOS):(147)",
+          "game_id": "147",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "暴走魔兽(IOS):(127)",
+          "game_id": "127",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "燃烧远征(IOS):(120)",
+          "game_id": "120",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "联盟PK部落(IOS):(145)",
+          "game_id": "145",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "联盟英雄战纪(IOS):(146)",
+          "game_id": "146",
+          "game_byname": "AllIOS"
+        }
+      ]
+    },
+    {
+      "name": "封神3D-iOS-独代",
+      "top": "3",
+      "game": [
+        {
+          "game_name": "上古封神纪(IOS):(260)",
+          "game_id": "260",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "古剑仙踪(IOS):(227)",
+          "game_id": "227",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "封神3D(IOS):(224)",
+          "game_id": "224",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "封神妲己传(IOS):(228)",
+          "game_id": "228",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "封神记(IOS):(293)",
+          "game_id": "293",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "搜神记(IOS):(307)",
+          "game_id": "307",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "神行九歌(IOS):(229)",
+          "game_id": "229",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "莽荒封神纪(IOS):(246)",
+          "game_id": "246",
+          "game_byname": "AllIOS"
+        }
+      ]
+    },
+    {
+      "name": "御剑封魔录",
+      "top": "3",
+      "game": [
+        {
+          "game_name": "御剑封魔录(IOS):(113)",
+          "game_id": "113",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "御剑封魔录2(IOS):(162)",
+          "game_id": "162",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "御剑封魔录2:(105)",
+          "game_id": "105",
+          "game_byname": "yjfml2"
+        },
+        {
+          "game_name": "御剑封魔录:(114)",
+          "game_id": "114",
+          "game_byname": "yjfml"
+        }
+      ]
+    },
+    {
+      "name": "苍穹绝仙",
+      "top": "3",
+      "game": [
+        {
+          "game_name": "苍穹绝仙:(25)",
+          "game_id": "25",
+          "game_byname": "cqzx"
+        },
+        {
+          "game_name": "苍穹诛仙:(27)",
+          "game_id": "27",
+          "game_byname": "cqzxall"
+        },
+        {
+          "game_name": "苍穹问道:(69)",
+          "game_id": "69",
+          "game_byname": "cqwdIOS"
+        }
+      ]
+    },
+    {
+      "name": "传奇无双",
+      "top": "2",
+      "game": [
+        {
+          "game_name": "传奇之怒:(135)",
+          "game_id": "135",
+          "game_byname": "cqzn"
+        },
+        {
+          "game_name": "传奇无双:(101)",
+          "game_id": "101",
+          "game_byname": "cqws"
+        }
+      ]
+    },
+    {
+      "name": "封神3D-安卓-独代",
+      "top": "2",
+      "game": [
+        {
+          "game_name": "古剑仙踪:(49)",
+          "game_id": "49",
+          "game_byname": "gjxz"
+        },
+        {
+          "game_name": "封神3D-2:(240)",
+          "game_id": "240",
+          "game_byname": "fs3d2"
+        },
+        {
+          "game_name": "封神3D:(210)",
+          "game_id": "210",
+          "game_byname": "fs3d"
+        },
+        {
+          "game_name": "封神妲己传:(198)",
+          "game_id": "198",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "山海经:(305)",
+          "game_id": "305",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "幻剑逍遥:(254)",
+          "game_id": "254",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "朝歌降魔:(297)",
+          "game_id": "297",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "绝世武魂-应用宝:(248)",
+          "game_id": "248",
+          "game_byname": "jswhyyb"
+        }
+      ]
+    },
+    {
+      "name": "权御三国",
+      "top": "2",
+      "game": [
+        {
+          "game_name": "天下枭雄(IOS):(194)",
+          "game_id": "194",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "权御三国:(155)",
+          "game_id": "155",
+          "game_byname": "qysg"
+        },
+        {
+          "game_name": "汉骑雄风(IOS):(193)",
+          "game_id": "193",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "汉骑雄风:(195)",
+          "game_id": "195",
+          "game_byname": "hqxf"
+        }
+      ]
+    },
+    {
+      "name": "炮炮捕鱼",
+      "top": "2",
+      "game": [
+        {
+          "game_name": "炮炮捕鱼(twIOS):(90)",
+          "game_id": "90",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "炮炮捕鱼(第三方):(26)",
+          "game_id": "26",
+          "game_byname": "ppbyall"
+        },
+        {
+          "game_name": "炮炮捕鱼(非tw sdkIOS):(20)",
+          "game_id": "20",
+          "game_byname": "ppbyIOS"
+        },
+        {
+          "game_name": "炮炮捕鱼:(17)",
+          "game_id": "17",
+          "game_byname": "ppby"
+        },
+        { "game_name": "贪玩捕鱼:(44)", "game_id": "44", "game_byname": "twby" }
+      ]
+    },
+    {
+      "name": "帝国争霸",
+      "top": "1",
+      "game": [
+        {
+          "game_name": "帝国争霸(IOS):(112)",
+          "game_id": "112",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "帝国争霸:(107)",
+          "game_id": "107",
+          "game_byname": "dgzb"
+        }
+      ]
+    },
+    {
+      "name": "绝世斗罗",
+      "top": "1",
+      "game": [
+        {
+          "game_name": "奇迹戮仙(IOS):(60)",
+          "game_id": "60",
+          "game_byname": "wyfxIOS"
+        },
+        {
+          "game_name": "斗破武魂(IOS):(104)",
+          "game_id": "104",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "绝世斗罗(IOS):(78)",
+          "game_id": "78",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "绝世斗罗2(IOS):(130)",
+          "game_id": "130",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "绝世斗罗:(59)",
+          "game_id": "59",
+          "game_byname": "jsdl"
+        },
+        {
+          "game_name": "绝世龙王(IOS):(131)",
+          "game_id": "131",
+          "game_byname": "AllIOS"
+        }
+      ]
+    },
+    {
+      "name": "H5-仙魔神域",
+      "top": "0",
+      "game": [
+        {
+          "game_name": "H5仙魔神域:(434)",
+          "game_id": "434",
+          "game_byname": "ALLH5"
+        }
+      ]
+    },
+    {
+      "name": "H5-传奇世界",
+      "top": "0",
+      "game": [
+        {
+          "game_name": "H5传奇世界:(221)",
+          "game_id": "221",
+          "game_byname": "h5_cqsj"
+        }
+      ]
+    },
+    {
+      "name": "H5-决战沙城",
+      "top": "0",
+      "game": [
+        {
+          "game_name": "H5决战沙城:(222)",
+          "game_id": "222",
+          "game_byname": "h5_jzsc"
+        }
+      ]
+    },
+    {
+      "name": "H5-口袋妖怪",
+      "top": "0",
+      "game": [
+        {
+          "game_name": "H5口袋妖怪:(223)",
+          "game_id": "223",
+          "game_byname": "h5_kdyg"
+        }
+      ]
+    },
+    {
+      "name": "H5-布衣天子",
+      "top": "0",
+      "game": [
+        {
+          "game_name": "H5布衣天子(Android):(442)",
+          "game_id": "442",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5布衣天子(IOS):(440)",
+          "game_id": "440",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5布衣天子:(435)",
+          "game_id": "435",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5帝王本色(IOS):(459)",
+          "game_id": "459",
+          "game_byname": "ALLH5"
+        }
+      ]
+    },
+    {
+      "name": "H5-魔域-安卓",
+      "top": "0",
+      "game": [
+        {
+          "game_name": "H5众神归来（Android）:(756)",
+          "game_id": "756",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5魔域来了（Android）:(770)",
+          "game_id": "770",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5魔域（主-直链）:(678)",
+          "game_id": "678",
+          "game_byname": "ALLH5"
+        }
+      ]
+    },
+    {
+      "name": "H5-龙城霸业",
+      "top": "0",
+      "game": [
+        { "game_name": "乱斗之王:(12)", "game_id": "12", "game_byname": "ldzw" }
+      ]
+    },
+    {
+      "name": "H5王者争霸",
+      "top": "0",
+      "game": [
+        {
+          "game_name": "H5王者争霸:(236)",
+          "game_id": "236",
+          "game_byname": "h5_wzzb"
+        },
+        {
+          "game_name": "H5王者争霸链接包:(237)",
+          "game_id": "237",
+          "game_byname": "h5_wzbydjb1"
+        },
+        {
+          "game_name": "H5王者霸业(IOS):(239)",
+          "game_id": "239",
+          "game_byname": "AllIOS"
+        }
+      ]
+    },
+    {
+      "name": "九州行",
+      "top": "0",
+      "game": [
+        {
+          "game_name": "九州逍遥游(IOS):(449)",
+          "game_id": "449",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "九州逍遥游:(443)",
+          "game_id": "443",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "仗剑九州(IOS):(450)",
+          "game_id": "450",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "莽荒记（九州行）:(778)",
+          "game_id": "778",
+          "game_byname": "AllANT"
+        }
+      ]
+    },
+    {
+      "name": "倩女西游",
+      "top": "0",
+      "game": [
+        {
+          "game_name": "仙盟夺宝(IOS):(63)",
+          "game_id": "63",
+          "game_byname": "xmdbIOS"
+        },
+        {
+          "game_name": "剑雨仙域(IOS):(58)",
+          "game_id": "58",
+          "game_byname": "jyxyIOS"
+        },
+        {
+          "game_name": "剑雨仙域:(52)",
+          "game_id": "52",
+          "game_byname": "jyxy"
+        },
+        {
+          "game_name": "剑雨仙盟(IOS):(62)",
+          "game_id": "62",
+          "game_byname": "jyxm"
+        }
+      ]
+    },
+    {
+      "name": "其他",
+      "top": 0,
+      "game": [
+        {
+          "game_name": "H5一刀99999(IOS)",
+          "game_id": "552",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5不推游戏",
+          "game_id": "266",
+          "game_byname": "h5_ygbkm"
+        },
+        {
+          "game_name": "H5乱世之争(IOS)",
+          "game_id": "429",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5乾坤霸业",
+          "game_id": "267",
+          "game_byname": "h5_qkby"
+        },
+        { "game_name": "H5传世天下", "game_id": "396", "game_byname": "ALLH5" },
+        {
+          "game_name": "H5传奇1(IOS)",
+          "game_id": "689",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5传奇2(IOS)",
+          "game_id": "690",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5传奇3(IOS)",
+          "game_id": "691",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5传奇4(IOS)",
+          "game_id": "692",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5传奇5(IOS)",
+          "game_id": "693",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5传奇单机版",
+          "game_id": "359",
+          "game_byname": "h5_ydjxfh"
+        },
+        {
+          "game_name": "H5传奇单机版(IOS)",
+          "game_id": "251",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "H5传奇单机版(IOS)",
+          "game_id": "544",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5传奇单机版3(IOS)",
+          "game_id": "621",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5传奇来了1(IOS)",
+          "game_id": "556",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5传奇来了2-专服",
+          "game_id": "509",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5军哥传奇(IOS)",
+          "game_id": "487",
+          "game_byname": "ALLH5"
+        },
+        { "game_name": "H5决战传世", "game_id": "397", "game_byname": "ALLH5" },
+        {
+          "game_name": "H5决战龙城",
+          "game_id": "405",
+          "game_byname": "AllIOS"
+        },
+        { "game_name": "H5剑与帝国", "game_id": "436", "game_byname": "ALLH5" },
+        {
+          "game_name": "H5单机传奇(IOS)",
+          "game_id": "543",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5单机西游(IOS未过包)",
+          "game_id": "600",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5单机西游-最好玩的回合西游(IOS)",
+          "game_id": "466",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5单机西游（应用宝）",
+          "game_id": "667",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5去吧皮卡丘(应用宝)",
+          "game_id": "672",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5口袋妖怪(Android)",
+          "game_id": "637",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5口袋妖怪-经典回归(IOS)",
+          "game_id": "638",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5口袋妖怪（思）(应用宝)",
+          "game_id": "669",
+          "game_byname": "ALLH5"
+        },
+        { "game_name": "H5备用", "game_id": "753", "game_byname": "ALLH5" },
+        { "game_name": "H5备用参数", "game_id": "781", "game_byname": "ALLH5" },
+        {
+          "game_name": "H5大清王朝(IOS)",
+          "game_id": "461",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5宠物小精灵(IOS)",
+          "game_id": "647",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5小精灵1(IOS)",
+          "game_id": "679",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5小精灵2(IOS)",
+          "game_id": "680",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5小精灵4(IOS)",
+          "game_id": "682",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5小精灵5(IOS)",
+          "game_id": "683",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5屠龙一刀9999(IOS)",
+          "game_id": "598",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5屠龙单机-iOS",
+          "game_id": "766",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5屠龙单机版(IOS)",
+          "game_id": "547",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5屠龙天下(IOS)",
+          "game_id": "199",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "H5屠龙霸业(IOS)",
+          "game_id": "206",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "H5山鸡传奇",
+          "game_id": "358",
+          "game_byname": "h5_cxcgl"
+        },
+        { "game_name": "H5山鸡传奇", "game_id": "375", "game_byname": "ALLH5" },
+        {
+          "game_name": "H5明星传奇(IOS)",
+          "game_id": "554",
+          "game_byname": "ALLH5"
+        },
+        { "game_name": "H5朕的大清", "game_id": "460", "game_byname": "ALLH5" },
+        {
+          "game_name": "H5极品小皇帝(IOS)",
+          "game_id": "481",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5梦回西游记(IOS)",
+          "game_id": "724",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5梦回长安城2(IOS)",
+          "game_id": "649",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5梦幻单机版(应用宝)",
+          "game_id": "664",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5梦道1(IOS)",
+          "game_id": "684",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5梦道2(IOS)",
+          "game_id": "685",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5梦道3(IOS)",
+          "game_id": "686",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5梦道4(IOS)",
+          "game_id": "687",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5梦道5(IOS)",
+          "game_id": "688",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5梦道单机版（波光）(应用宝)",
+          "game_id": "668",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5梦道无双版1(IOS)",
+          "game_id": "725",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5梦道无双版2(IOS)",
+          "game_id": "726",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5梦道无双版3(IOS)",
+          "game_id": "727",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5梦道无双版4(IOS)",
+          "game_id": "728",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5梦道无双版5(IOS)",
+          "game_id": "729",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5梦道西游记(IOS)",
+          "game_id": "594",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5梦道西游记-烧脑回合游戏(IOS)",
+          "game_id": "471",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5梦道西游记2(IOS)",
+          "game_id": "648",
+          "game_byname": "ALLH5"
+        },
+        { "game_name": "H5沙城争霸", "game_id": "404", "game_byname": "ALLH5" },
+        {
+          "game_name": "H5测试-改改",
+          "game_id": "584",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5渣渣辉传奇(应用宝)",
+          "game_id": "705",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5渣渣辉传奇2(IOS)",
+          "game_id": "601",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5渣渣辉传奇3(IOS)",
+          "game_id": "602",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5渣渣辉传奇4(IOS)",
+          "game_id": "610",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5渣渣辉传奇5(IOS)",
+          "game_id": "611",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5游戏平台(微信公众号)",
+          "game_id": "262",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "H5游戏平台官网",
+          "game_id": "261",
+          "game_byname": "AllIOS"
+        },
+        { "game_name": "H5热血传世", "game_id": "402", "game_byname": "ALLH5" },
+        {
+          "game_name": "H5热血单机(IOS)",
+          "game_id": "572",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5热血单机版(IOS)",
+          "game_id": "524",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5热血合击版(IOS)",
+          "game_id": "550",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5热血合击（主）",
+          "game_id": "779",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5王者争霸",
+          "game_id": "268",
+          "game_byname": "h5_wzzb"
+        },
+        {
+          "game_name": "H5王者争霸(IOS)",
+          "game_id": "235",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "H5王者传奇-蓝月争霸-2(IOS)",
+          "game_id": "333",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "H5王者单机版(IOS)",
+          "game_id": "245",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "H5王者霸业1(IOS)",
+          "game_id": "632",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5玛法英雄(IOS)",
+          "game_id": "546",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5玛法英雄2(IOS)",
+          "game_id": "597",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5玛法英雄3(IOS)",
+          "game_id": "650",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5皮卡丘单机版（波光）(应用宝)",
+          "game_id": "671",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5盛世单机版(IOS)",
+          "game_id": "658",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5盛世霸业",
+          "game_id": "171",
+          "game_byname": "h5ssby"
+        },
+        {
+          "game_name": "H5真龙天子(IOS)",
+          "game_id": "452",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5神奇萌宠2-iOS",
+          "game_id": "767",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5神武单机版(应用宝)",
+          "game_id": "663",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5精灵宝可梦(IOS)",
+          "game_id": "646",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5精灵宝可梦（波光）(应用宝)",
+          "game_id": "670",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5精灵超进化1(IOS)",
+          "game_id": "720",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5精灵超进化2(IOS)",
+          "game_id": "721",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5精灵超进化3(IOS)",
+          "game_id": "722",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5精灵超进化4(IOS)",
+          "game_id": "723",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5胡哥传奇(IOS)",
+          "game_id": "542",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5至尊蓝月(IOS)",
+          "game_id": "574",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月争霸(应用宝未过审)",
+          "game_id": "704",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月争霸-4(IOS)",
+          "game_id": "557",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月争霸-正版授权(IOS)",
+          "game_id": "582",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月争霸单机版(IOS)",
+          "game_id": "558",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月传奇(Android)",
+          "game_id": "818",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月传奇(页游)",
+          "game_id": "491",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月传说",
+          "game_id": "357",
+          "game_byname": "h5_ntzzgl"
+        },
+        {
+          "game_name": "H5蓝月传说(IOS)",
+          "game_id": "523",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月传说(IOS)",
+          "game_id": "575",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月单机(IOS)",
+          "game_id": "571",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月单机2(IOS)",
+          "game_id": "634",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月单机版(IOS)",
+          "game_id": "555",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月单机版(应用宝未过审)",
+          "game_id": "703",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月单机版2(IOS)",
+          "game_id": "619",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月单机版3(IOS)",
+          "game_id": "623",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月单机版提审中(IOS)",
+          "game_id": "241",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "H5蓝月单机版（应用宝）",
+          "game_id": "455",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月变态版(IOS)",
+          "game_id": "526",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月合击版(IOS)",
+          "game_id": "527",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月合击版(应用宝)",
+          "game_id": "713",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月屠龙(IOS)",
+          "game_id": "529",
+          "game_byname": "ALLH5"
+        },
+        { "game_name": "H5蓝月手游", "game_id": "391", "game_byname": "ALLH5" },
+        {
+          "game_name": "H5蓝月挂机版(IOS)",
+          "game_id": "548",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月攻沙(IOS)",
+          "game_id": "530",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月攻沙(IOS)",
+          "game_id": "583",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月暴击版(IOS)",
+          "game_id": "528",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月来了(IOS)",
+          "game_id": "596",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月王者(IOS)",
+          "game_id": "525",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月王者(IOS)",
+          "game_id": "576",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月贪玩2(IOS)",
+          "game_id": "624",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月贪玩3(IOS)",
+          "game_id": "655",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月贪玩单机版",
+          "game_id": "349",
+          "game_byname": "h5_djblytw"
+        },
+        {
+          "game_name": "H5蓝月风云(IOS)",
+          "game_id": "362",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5蓝月高爆版(IOS)",
+          "game_id": "531",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5西游单机版(IOS)",
+          "game_id": "595",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5西游单机版-应用宝",
+          "game_id": "585",
+          "game_byname": "ALLH5"
+        },
+        { "game_name": "H5贪玩蓝月", "game_id": "374", "game_byname": "ALLH5" },
+        {
+          "game_name": "H5贪玩蓝月-正版复刻(IOS)",
+          "game_id": "553",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5贪玩蓝月Tw",
+          "game_id": "302",
+          "game_byname": "h5_mjlytw"
+        },
+        {
+          "game_name": "H5贪玩蓝月单机版旧服新接",
+          "game_id": "777",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5贪玩蓝月来了",
+          "game_id": "382",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5赤月战歌(IOS)",
+          "game_id": "205",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "H5足球1-iOS",
+          "game_id": "772",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5足球2-iOS",
+          "game_id": "773",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5足球3-iOS",
+          "game_id": "774",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5足球4-iOS",
+          "game_id": "775",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5辉哥传奇(IOS)",
+          "game_id": "633",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5部落守卫战(IOS)",
+          "game_id": "441",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5铁血传奇(IOS)",
+          "game_id": "204",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "H5问道单机版(应用宝)",
+          "game_id": "662",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5雷霆战神(IOS)",
+          "game_id": "201",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "H5雷霆盛世(IOS)",
+          "game_id": "208",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "H5魔域1-iOS",
+          "game_id": "751",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5魔域2-iOS",
+          "game_id": "752",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5魔域3-iOS",
+          "game_id": "736",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5魔域4-iOS",
+          "game_id": "740",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5魔域5-iOS",
+          "game_id": "741",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5魔域6-iOS",
+          "game_id": "750",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5魔法门传说（IOS）",
+          "game_id": "559",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5龙城战歌(应用宝)",
+          "game_id": "712",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5龙城霸业",
+          "game_id": "281",
+          "game_byname": "h5_lcby"
+        },
+        {
+          "game_name": "H5龙城霸业(IOS)",
+          "game_id": "545",
+          "game_byname": "ALLH5"
+        },
+        { "game_name": "H5龙腾传世", "game_id": "376", "game_byname": "ALLH5" },
+        {
+          "game_name": "H5龙腾传世单机版(IOS)",
+          "game_id": "549",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "【H5】一球成名（ios)",
+          "game_id": "764",
+          "game_byname": "ALLH5"
+        },
+        { "game_name": "一刀屠龙", "game_id": "18", "game_byname": "ydtl" },
+        {
+          "game_name": "一剑情缘（ios）",
+          "game_id": "771",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "一品包青天(ios)",
+          "game_id": "796",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "一品大学士(IOS)",
+          "game_id": "464",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "一品大官人(应用宝)",
+          "game_id": "731",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "一品官老爷2(IOS)",
+          "game_id": "570",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "一品官老爷5(ios)",
+          "game_id": "791",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "一品官老爷6(IOS)",
+          "game_id": "806",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "一球成名-作废勿用",
+          "game_id": "761",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "一球成名（ios）-作废，勿用",
+          "game_id": "762",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "上古轶闻录(IOS)",
+          "game_id": "810",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "中州传世(IOS)",
+          "game_id": "511",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "中州巨变(IOS)",
+          "game_id": "517",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "主宰之刃(IOS)",
+          "game_id": "415",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "主宰之刃(应用宝)",
+          "game_id": "708",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "九品官养成记(IOS)",
+          "game_id": "661",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "九品芝麻官",
+          "game_id": "381",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "仙侠凌云(IOS)",
+          "game_id": "278",
+          "game_byname": "AllIOS"
+        },
+        { "game_name": "仙剑五", "game_id": "22", "game_byname": "xj5" },
+        {
+          "game_name": "仙剑五(第三方)",
+          "game_id": "35",
+          "game_byname": "xj5all"
+        },
+        {
+          "game_name": "仙剑游侠(IOS)",
+          "game_id": "639",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "仙剑逍遥录(IOS)",
+          "game_id": "445",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "仙剑问情（ios）",
+          "game_id": "792",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "仙域尘缘(IOS)",
+          "game_id": "136",
+          "game_byname": "AllIOS"
+        },
+        { "game_name": "仙梦情缘", "game_id": "46", "game_byname": "xmqy" },
+        { "game_name": "仙语", "game_id": "21", "game_byname": "xy" },
+        {
+          "game_name": "仙道风云纪(IOS)",
+          "game_id": "446",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "传世-915(IOS)",
+          "game_id": "486",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "传世之王(IOS)",
+          "game_id": "538",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "传世加强版(IOS)",
+          "game_id": "539",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "传世加强版2(ios)",
+          "game_id": "816",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "传世单机版 (IOS)",
+          "game_id": "588",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "传世合击(IOS)",
+          "game_id": "612",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "传世合击(应用宝)",
+          "game_id": "716",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "传世威力版(IOS)",
+          "game_id": "515",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "传世尊贵版(IOS)",
+          "game_id": "578",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "传世屠龙版(IOS)",
+          "game_id": "565",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "传世手机版(IOS)",
+          "game_id": "534",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "传世手机版2(IOS)",
+          "game_id": "561",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "传世手游2（ios）",
+          "game_id": "815",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "传世来了(IOS)",
+          "game_id": "537",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "传世来了3（ios）",
+          "game_id": "814",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "传世永恒(IOS)",
+          "game_id": "536",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "传世永恒(应用宝)",
+          "game_id": "744",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "传世烈焰(IOS)",
+          "game_id": "468",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "传世热血(IOS)",
+          "game_id": "613",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "传世王者(IOS)",
+          "game_id": "411",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "传世荣耀(IOS)",
+          "game_id": "518",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "传世霸业(IOS)",
+          "game_id": "734",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "传奇至尊版(IOS)",
+          "game_id": "697",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "传奇至尊版2(IOS)",
+          "game_id": "819",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "传奇龙刃(IOS)",
+          "game_id": "176",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "傲剑无双(IOS)",
+          "game_id": "277",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "元神传世(IOS)",
+          "game_id": "577",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "元神霸业(IOS)",
+          "game_id": "579",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "兄弟传世(应用宝)",
+          "game_id": "665",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "全民当官(IOS)",
+          "game_id": "659",
+          "game_byname": "AllIOS"
+        },
+        { "game_name": "全民戮仙", "game_id": "31", "game_byname": "qmlx" },
+        { "game_name": "全民烧猪", "game_id": "32", "game_byname": "qmsz" },
+        { "game_name": "六界仙尊", "game_id": "109", "game_byname": "ljxj" },
+        {
+          "game_name": "再战传世(IOS)",
+          "game_id": "591",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "决战中州(IOS)",
+          "game_id": "580",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "决战千里(IOS)",
+          "game_id": "398",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "决战沙城(IOS)",
+          "game_id": "329",
+          "game_byname": "AllIOS"
+        },
+        { "game_name": "刀剑物语", "game_id": "43", "game_byname": "djwy" },
+        {
+          "game_name": "剑指长歌（安卓）",
+          "game_id": "798",
+          "game_byname": "AllANT"
+        },
+        { "game_name": "包青天", "game_id": "615", "game_byname": "AllANT" },
+        {
+          "game_name": "参数待定(IOS)",
+          "game_id": "451",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "君临龙城(IOS)",
+          "game_id": "380",
+          "game_byname": "AllIOS"
+        },
+        { "game_name": "命運之子", "game_id": "3", "game_byname": "myzz" },
+        {
+          "game_name": "命運之子(IOS)",
+          "game_id": "4",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "嗜血传说(IOS)",
+          "game_id": "325",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "嗜血荣耀(IOS)",
+          "game_id": "330",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "大清宰相(IOS)",
+          "game_id": "625",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "大清当官(IOS)",
+          "game_id": "438",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "官人我要(非贪玩)安卓",
+          "game_id": "811",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "官爷威武(IOS)",
+          "game_id": "660",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "官爷驾到(IOS)",
+          "game_id": "507",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "宝刀屠龙传(IOS)",
+          "game_id": "337",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "封神3D(915)",
+          "game_id": "309",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "封神妲己传（应用宝）",
+          "game_id": "799",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "封神：妲己传",
+          "game_id": "479",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "封魔传说(IOS)",
+          "game_id": "137",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "封魔斩仙录(1377)",
+          "game_id": "308",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "小秘书升职记(ios)",
+          "game_id": "785",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "少年经典传奇ol(IOS)",
+          "game_id": "420",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "屠龙一刀斩(IOS)",
+          "game_id": "304",
+          "game_byname": "AllIOS"
+        },
+        { "game_name": "屠龙之刃", "game_id": "10", "game_byname": "tlzr" },
+        {
+          "game_name": "屠龙之刃(IOS)",
+          "game_id": "364",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "屠龙传世2（ios）",
+          "game_id": "805",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "屠龙屠龙屠龙(IOS)",
+          "game_id": "346",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "屠龙无双霸业(IOS)",
+          "game_id": "312",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "屠龙霸业(IOS)",
+          "game_id": "698",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "山海经异兽行(IOS)",
+          "game_id": "809",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "山海轶闻录(IOS)",
+          "game_id": "808",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "山鸡传世(IOS)",
+          "game_id": "540",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "山鸡传奇(IOS)",
+          "game_id": "586",
+          "game_byname": "AllIOS"
+        },
+        { "game_name": "幻灵", "game_id": "99", "game_byname": "hl" },
+        { "game_name": "开心电玩城", "game_id": "2", "game_byname": "kxdwc" },
+        {
+          "game_name": "开心电玩城(IOS)",
+          "game_id": "1",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "开心电玩城(IOS)",
+          "game_id": "173",
+          "game_byname": "AllIOS"
+        },
+        { "game_name": "待定", "game_id": "504", "game_byname": "AllANT" },
+        {
+          "game_name": "御仙风云决(IOS)",
+          "game_id": "276",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "怒火沙城(IOS)",
+          "game_id": "488",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "怒砍一刀(应用宝)",
+          "game_id": "706",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "情憾九天（ios）",
+          "game_id": "793",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "惊世龙魂(IOS)",
+          "game_id": "132",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "战域之主(IOS)",
+          "game_id": "348",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "战斗吧数码兽",
+          "game_id": "94",
+          "game_byname": "zdbsms"
+        },
+        {
+          "game_name": "战神传世(IOS)",
+          "game_id": "569",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "手游测试-改",
+          "game_id": "737",
+          "game_byname": "AllIOS"
+        },
+        { "game_name": "手游测试1", "game_id": "742", "game_byname": "AllIOS" },
+        {
+          "game_name": "捕鲲记（安卓）",
+          "game_id": "802",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "散人之怒(IOS)",
+          "game_id": "327",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "斩月传奇(IOS)",
+          "game_id": "322",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "新版传世(IOS)",
+          "game_id": "513",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "无双特戒(IOS)",
+          "game_id": "592",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "无敌县令(IOS)",
+          "game_id": "431",
+          "game_byname": "AllIOS"
+        },
+        { "game_name": "昆仑墟", "game_id": "249", "game_byname": "klx" },
+        { "game_name": "权力与游戏", "game_id": "159", "game_byname": "qlyyx" },
+        { "game_name": "极品县令", "game_id": "366", "game_byname": "AllANT" },
+        {
+          "game_name": "极品小王爷(IOS)",
+          "game_id": "813",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "极品霸道总裁(ios)",
+          "game_id": "784",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "极品霸道总裁-美女(安卓)",
+          "game_id": "807",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "极品霸道总裁-胡歌",
+          "game_id": "795",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "永恒传世(IOS)",
+          "game_id": "516",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "沙城之巅(IOS)",
+          "game_id": "593",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "沙城战法道(IOS)",
+          "game_id": "590",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "沙皇争霸(IOS)",
+          "game_id": "581",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "洪荒王者(IOS)",
+          "game_id": "423",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "洪荒王者2(IOS)",
+          "game_id": "563",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "浴血霸业(IOS)",
+          "game_id": "484",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "浴血霸业(应用宝)",
+          "game_id": "573",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "渣渣辉传奇2(IOS)",
+          "game_id": "651",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "渣渣辉传奇2(应用宝)",
+          "game_id": "707",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "渣渣辉传奇5(IOS)",
+          "game_id": "801",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "渣渣辉来了(IOS)",
+          "game_id": "653",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "渣渣辉王者(IOS)",
+          "game_id": "652",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "渣渣辉蓝月2(IOS)",
+          "game_id": "800",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "渣渣辉霸业(IOS)",
+          "game_id": "608",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "渣渣辉霸业(IOS)",
+          "game_id": "616",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "灭世裁决(IOS)",
+          "game_id": "332",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "灭天一剑(IOS)",
+          "game_id": "421",
+          "game_byname": "AllIOS"
+        },
+        { "game_name": "烈火龙城", "game_id": "86", "game_byname": "lhlc" },
+        { "game_name": "烈焰", "game_id": "9", "game_byname": "ly" },
+        {
+          "game_name": "热血传世2（ios）",
+          "game_id": "804",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "热血合击-渠道",
+          "game_id": "677",
+          "game_byname": "AllANT"
+        },
+        { "game_name": "热血合击2", "game_id": "794", "game_byname": "AllIOS" },
+        {
+          "game_name": "热血战神之沙城争霸(IOS)",
+          "game_id": "321",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "热血沙城蓝月传(IOS)",
+          "game_id": "318",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "热血王者(IOS)",
+          "game_id": "745",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "热血至尊(IOS)",
+          "game_id": "675",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "热血荣耀(IOS)",
+          "game_id": "331",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "热血连击(IOS)",
+          "game_id": "812",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "热血雷霆(IOS)",
+          "game_id": "587",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "狂怒战神(IOS)",
+          "game_id": "335",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "狂怒龙城(IOS)",
+          "game_id": "313",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "王者传世(IOS)",
+          "game_id": "514",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "王者传世2(IOS)",
+          "game_id": "564",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "王者霸业(IOS)",
+          "game_id": "673",
+          "game_byname": "AllIOS"
+        },
+        { "game_name": "皇室战争", "game_id": "34", "game_byname": "hszz" },
+        { "game_name": "皇牌航母", "game_id": "757", "game_byname": "AllANT" },
+        {
+          "game_name": "皇牌航母(ios)",
+          "game_id": "760",
+          "game_byname": "AllIOS"
+        },
+        { "game_name": "盗墓刺秦", "game_id": "11", "game_byname": "dmcq" },
+        {
+          "game_name": "盛世屠龙(IOS)",
+          "game_id": "674",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "盛世洪荒(IOS)",
+          "game_id": "417",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "盛世龙城(IOS)",
+          "game_id": "336",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "石墓传奇(IOS)",
+          "game_id": "401",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "石墓传奇(应用宝)",
+          "game_id": "709",
+          "game_byname": "AllANT"
+        },
+        { "game_name": "石墓烧猪", "game_id": "38", "game_byname": "smsz" },
+        {
+          "game_name": "破军屠龙(IOS)",
+          "game_id": "334",
+          "game_byname": "AllIOS"
+        },
+        { "game_name": "神座", "game_id": "68", "game_byname": "sz" },
+        {
+          "game_name": "神行九歌（安卓）",
+          "game_id": "797",
+          "game_byname": "AllANT"
+        },
+        { "game_name": "神装屠龙", "game_id": "13", "game_byname": "sztl" },
+        { "game_name": "神途(IOS)", "game_id": "535", "game_byname": "AllIOS" },
+        {
+          "game_name": "神途2(IOS)",
+          "game_id": "560",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "神魔传世(IOS)",
+          "game_id": "512",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "神魔传世3（ios）",
+          "game_id": "803",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "禁断炼金术-等价交换(IOS)",
+          "game_id": "275",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "称霸龙城(IOS)",
+          "game_id": "338",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "经典传世(IOS)",
+          "game_id": "496",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "经典传世3(IOS)",
+          "game_id": "733",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "网易融合sdk(测试)",
+          "game_id": "124",
+          "game_byname": "wangyisdk"
+        },
+        { "game_name": "老爷吉祥", "game_id": "258", "game_byname": "AllANT" },
+        {
+          "game_name": "老铁传世(IOS)",
+          "game_id": "589",
+          "game_byname": "AllIOS"
+        },
+        { "game_name": "联盟战争", "game_id": "167", "game_byname": "lmzz" },
+        {
+          "game_name": "至尊屠龙(IOS)",
+          "game_id": "567",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "至尊烈焰之决战龙城(IOS)",
+          "game_id": "345",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "至尊蓝月(IOS)",
+          "game_id": "478",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "至尊蓝月2(IOS)",
+          "game_id": "699",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "至尊裁决(IOS)",
+          "game_id": "614",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "至尊霸业(IOS)",
+          "game_id": "568",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "英雄传世(IOS)",
+          "game_id": "469",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "英雄传世(应用宝)",
+          "game_id": "717",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "英雄末路(IOS)",
+          "game_id": "400",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "荒古屠杀(IOS)",
+          "game_id": "427",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "荒古屠沙(IOS)",
+          "game_id": "340",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "荣耀传世(IOS)",
+          "game_id": "541",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "荣耀攻沙(IOS)",
+          "game_id": "341",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "荣耀攻沙2(IOS)",
+          "game_id": "390",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "蓝月传奇2(IOS)",
+          "game_id": "817",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "蓝月王者(IOS)",
+          "game_id": "480",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "蓝月至尊之屠龙传奇(IOS)",
+          "game_id": "319",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "蓝月贪玩(IOS)",
+          "game_id": "379",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "蓝月贪玩2(IOS)",
+          "game_id": "416",
+          "game_byname": "AllIOS"
+        },
+        { "game_name": "蝶舞大唐春", "game_id": "123", "game_byname": "dwdtc" },
+        {
+          "game_name": "蝶舞大唐春(IOS)",
+          "game_id": "122",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "血战沙城之兄弟情谊(IOS)",
+          "game_id": "320",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "血燃沙城(IOS)",
+          "game_id": "342",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "裁决传说(IOS)",
+          "game_id": "290",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "裁决屠龙(IOS)",
+          "game_id": "326",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "贪玩PK蓝月(IOS)",
+          "game_id": "385",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "贪玩VS蓝月(IOS)",
+          "game_id": "387",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "贪玩传世-乔杉",
+          "game_id": "629",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "贪玩传世2(IOS)",
+          "game_id": "428",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "贪玩传世OL(IOS)",
+          "game_id": "458",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "贪玩蓝月-郑伊健",
+          "game_id": "447",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "贪玩蓝月:觉醒(IOS)",
+          "game_id": "392",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "贪玩蓝月:重生(IOS)",
+          "game_id": "394",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "贪玩蓝月:降临(IOS)",
+          "game_id": "393",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "贪玩蓝月HD-应用宝",
+          "game_id": "640",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "贪玩蓝月传奇-应用宝",
+          "game_id": "643",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "贪玩蓝月加强版-应用宝",
+          "game_id": "641",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "贪玩蓝月合击-应用宝",
+          "game_id": "645",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "贪玩蓝月至尊版-应用宝",
+          "game_id": "642",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "贪玩蓝月高清-应用宝",
+          "game_id": "644",
+          "game_byname": "AllANT"
+        },
+        {
+          "game_name": "赤冥传说(IOS)",
+          "game_id": "508",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "赤焰传说(IOS)",
+          "game_id": "418",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "赤焰传说(IOS)",
+          "game_id": "533",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "逐天一剑(IOS)",
+          "game_id": "483",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "酷游信息融合sdk",
+          "game_id": "129",
+          "game_byname": "kysdk"
+        },
+        { "game_name": "金刚葫芦娃", "game_id": "67", "game_byname": "jghlw" },
+        {
+          "game_name": "金刚葫芦娃(IOS)",
+          "game_id": "74",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "钢炼FA(IOS)",
+          "game_id": "274",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "钢炼人造人(IOS)",
+          "game_id": "273",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "铁血战魂(IOS)",
+          "game_id": "424",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "铁血狂龙(IOS)",
+          "game_id": "489",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "铁面包青天(IOS)",
+          "game_id": "776",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "锦绣大官人(IOS)",
+          "game_id": "264",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "雷霆屠龙(IOS)",
+          "game_id": "323",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "霸业盛世(IOS)",
+          "game_id": "566",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "霸者一刀(IOS)",
+          "game_id": "339",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "霸者一刀2(IOS)",
+          "game_id": "425",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "青天大老爷(IOS)",
+          "game_id": "432",
+          "game_byname": "AllIOS"
+        },
+        { "game_name": "魔力契约", "game_id": "108", "game_byname": "mlqy" },
+        { "game_name": "魔法と精灵", "game_id": "6", "game_byname": "majl" },
+        {
+          "game_name": "魔法と精灵(IOS)",
+          "game_id": "5",
+          "game_byname": "AllIOS"
+        },
+        { "game_name": "麻将女友", "game_id": "41", "game_byname": "mjny" },
+        { "game_name": "麻将女友", "game_id": "71", "game_byname": "mjnyIOS" },
+        { "game_name": "齐天大棒", "game_id": "39", "game_byname": "qtdb" },
+        {
+          "game_name": "龙图霸业(IOS)",
+          "game_id": "298",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "龙城无双(IOS)",
+          "game_id": "289",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "龙城霸业(h5手游sdk对接)",
+          "game_id": "243",
+          "game_byname": "lcby"
+        },
+        {
+          "game_name": "龙腾世纪(IOS)",
+          "game_id": "426",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "龙腾传世-母包(IOS)",
+          "game_id": "470",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "龙腾传世HD(IOS)",
+          "game_id": "474",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "龙腾传世HD3(IOS)",
+          "game_id": "562",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "龙腾传世合击版(IOS)",
+          "game_id": "472",
+          "game_byname": "AllIOS"
+        }
+      ]
+    },
+    {
+      "name": "大圣抓妖",
+      "top": "0",
+      "game": [
+        { "game_name": "大圣捉妖:(82)", "game_id": "82", "game_byname": "dszy" }
+      ]
+    },
+    {
+      "name": "最佳阵容",
+      "top": "0",
+      "game": [
+        {
+          "game_name": "最佳阵容:(81)",
+          "game_id": "81",
+          "game_byname": "zjzr_sy"
+        }
+      ]
+    },
+    {
+      "name": "热血合击-IOS",
+      "top": "0",
+      "game": [
+        {
+          "game_name": "热血合击企业版:(780)",
+          "game_id": "780",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "热血合击（ios）:(758)",
+          "game_id": "758",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "蓝月传奇(IOS):(631)",
+          "game_id": "631",
+          "game_byname": "AllIOS"
+        }
+      ]
+    },
+    {
+      "name": "现代海战-IOS",
+      "top": "0",
+      "game": [
+        {
+          "game_name": "皇家战舰（ios）:(754)",
+          "game_id": "754",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "红海行动(IOS):(696)",
+          "game_id": "696",
+          "game_byname": "AllIOS"
+        }
+      ]
+    },
+    {
+      "name": "现代海战-安卓",
+      "top": "0",
+      "game": [
+        {
+          "game_name": "H5胜利十一人（Android）:(782)",
+          "game_id": "782",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "H5荣耀足球（主）:(748)",
+          "game_id": "748",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "【H5】一球成名（安卓):(763)",
+          "game_id": "763",
+          "game_byname": "ALLH5"
+        },
+        {
+          "game_name": "【H5】胜利十一人（IOS):(765)",
+          "game_id": "765",
+          "game_byname": "ALLH5"
+        }
+      ]
+    },
+    {
+      "name": "神泣之光",
+      "top": "0",
+      "game": [
+        { "game_name": "神泣之光:(45)", "game_id": "45", "game_byname": "sqzg" }
+      ]
+    },
+    {
+      "name": "网易游戏联运",
+      "top": "0",
+      "game": [
+        {
+          "game_name": "大航海之路:(152)",
+          "game_id": "152",
+          "game_byname": "dhhzl"
+        },
+        { "game_name": "镇魔曲:(154)", "game_id": "154", "game_byname": "zmq" }
+      ]
+    },
+    {
+      "name": "雷霆屠龙",
+      "top": "0",
+      "game": [
+        { "game_name": "雷霆屠龙:(95)", "game_id": "95", "game_byname": "lttl" }
+      ]
+    },
+    {
+      "name": "风云天下2",
+      "top": "0",
+      "game": [
+        {
+          "game_name": "风云天下:重燃:(128)",
+          "game_id": "128",
+          "game_byname": "fytxcr"
+        }
+      ]
+    },
+    {
+      "name": null,
+      "top": null,
+      "game": [
+        {
+          "game_name": "莽荒记（九州行ios）:(787)",
+          "game_id": "787",
+          "game_byname": "AllIOS"
+        }
+      ]
+    },
+    {
+      "name": null,
+      "top": null,
+      "game": [
+        {
+          "game_name": "御剑封魔录（太古）:(786)",
+          "game_id": "786",
+          "game_byname": "AllANT"
+        }
+      ]
+    },
+    {
+      "name": null,
+      "top": null,
+      "game": [
+        {
+          "game_name": "山海捕兽纪（ios）:(769)",
+          "game_id": "769",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "捕鲲记（ios）:(790)",
+          "game_id": "790",
+          "game_byname": "AllIOS"
+        }
+      ]
+    },
+    {
+      "name": null,
+      "top": null,
+      "game": [
+        {
+          "game_name": "剑逆仙穹（太古ios）:(789)",
+          "game_id": "789",
+          "game_byname": "AllIOS"
+        },
+        {
+          "game_name": "御剑封魔录（太古ios）:(788)",
+          "game_id": "788",
+          "game_byname": "AllIOS"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "ret": 1,
+  "msg": "succ",
+  "data": [
+    {
+      "creativeTemplateName": "\u4fe1\u606f\u6d41\u5927\u56fe",
+      "creativeTemplateId": "1"
+    },
+    {
+      "creativeTemplateName": "\u4fe1\u606f\u6d41\u5c0f\u56fe",
+      "creativeTemplateId": "2"
+    },
+    {
+      "creativeTemplateName": "\u4fe1\u606f\u6d41\u4e09\u56fe",
+      "creativeTemplateId": "3"
+    },
+    {
+      "creativeTemplateName": "\u4e09\u56fe\u4e0b\u8f7d",
+      "creativeTemplateId": "34"
+    },
+    {
+      "creativeTemplateName": "\u4fe1\u606f\u6d41\u5927\u56fe\u4e0b\u8f7d",
+      "creativeTemplateId": "4"
+    },
+    {
+      "creativeTemplateName": "\u4fe1\u606f\u6d41\u5c0f\u56fe\u4e0b\u8f7d",
+      "creativeTemplateId": "5"
+    },
+    {
+      "creativeTemplateName": "\u52a8\u6001\u56fe",
+      "creativeTemplateId": "32"
+    },
+    {
+      "creativeTemplateName": "\u5947\u8da3\u56fe\u6587",
+      "creativeTemplateId": "31"
+    },
+    {
+      "creativeTemplateName": "\u52a8\u6001\u56fe\u4e0b\u8f7d",
+      "creativeTemplateId": "33"
+    },
+    {
+      "creativeTemplateName": "\u5947\u8da3\u56fe\u6587\u4e0b\u8f7d",
+      "creativeTemplateId": "21"
+    },
+    {
+      "creativeTemplateName": "\u4fe1\u606f\u6d41\u89c6\u9891",
+      "creativeTemplateId": "24"
+    },
+    {
+      "creativeTemplateName": "\u4fe1\u606f\u6d41\u89c6\u9891\u4e0b\u8f7d",
+      "creativeTemplateId": "25"
+    }
+  ]
+}
