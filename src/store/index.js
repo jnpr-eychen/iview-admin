@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
-import ucnew from './modules/ucnew'
+import bd from './modules/baidu'
+import uc from './modules/uc'
 
 Vue.use(Vuex)
 
@@ -10,7 +11,8 @@ const store = new Vuex.Store({
   mutations: {},
   actions: {},
   modules: {
-    ucnew
+    uc,
+    bd
   }
 })
 

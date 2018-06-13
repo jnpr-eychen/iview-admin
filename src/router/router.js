@@ -74,7 +74,7 @@ export const ttNew = {
 // }
 
 // 作为Main组件的子页面展示并且在左侧菜单显示的路由写在appRouter里
-export const appRouter = [
+export const menuRouter = [
   // {
   //   path: '/',
   //   icon: 'ios-home',
@@ -146,6 +146,13 @@ export const appRouter = [
           { path: 'creative', title: '推广创意', name: 'bd_creative', icon: 'android-radio-button-off', component: () => import('@/views/baidu/advertiser/creative.vue') }
         ]}
     ]
+  },
+  {
+    path: '/',
+    name: 'dates',
+    title: 'datas',
+    icon: 'ios-paw',
+    component: Main
   }
   // {
   //   path: '/channel',
@@ -185,17 +192,19 @@ export const appRouter = [
 
 const date = {
   path: '/',
+  name: 'date',
+  title: 'data',
+  icon: 'ios-paw',
   component: Main
 }
 
 export const routes = [
   // loginRouter,
   // newAd,
-  ucNew,
-  ttNew,
-  // otherRouter,
-  ...appRouter,
-  date
   // page403,
   // page404
+  ucNew,
+  ttNew,
+  date,
+  ...menuRouter
 ]
