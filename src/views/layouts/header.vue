@@ -21,6 +21,7 @@
 <template>
   <Header class="layout-header-bar">
     <Icon @click.native="handleCollapsed" :class="rotateIcon" :style="{margin: '20px 20px 0'}" type="navicon-round" size="24" class="menu-icon"></Icon>
+    <span>欢迎优化师： sheji</span>
   </Header>
 </template>
 <script>

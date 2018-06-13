@@ -2,6 +2,7 @@
 .jy-sub-menu{
   width: 100%;
   height: 100%;
+  background-color: #2d2f38;
 }
 </style>
 <template>

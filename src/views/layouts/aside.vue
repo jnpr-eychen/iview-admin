@@ -2,10 +2,12 @@
 .jy-aside{
   width: 100%;
   height: 100%;
+  background-color: #2d2f38;
 }
 </style>
 <template>
-  <div class="jy-aside">
+  <div class="jy-aside no-wrap">
+    <slot name="top"></slot>
     <menuCollapse @on-change="handleMenuChange" :menu-list="menuRouter" :menuitem-cls="menuitemCls"></menuCollapse>
   </div>
 </template>
@@ -48,7 +50,7 @@ export default {
       this.$router.push({name})
     },
     menuitemClasses() {
-      return this.isCollapsed ? 'collapsed-menu' : ''
+      return this.isCollapsed ? '' : 'collapsed-menu'
     }
   }
 }

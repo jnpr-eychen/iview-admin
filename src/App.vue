@@ -1,3 +1,6 @@
+<style lang="less">
+@import "./common/styles/index.less";
+</style>
 <template>
   <div id="app-p">
     <keep-alive>

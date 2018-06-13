@@ -28,7 +28,7 @@
 }
 </style>
 <template>
-  <Menu ref="asideMenu" @on-select="handleMenuSelect" :mode="mode" width="auto" :theme="theme" accordion :active-name="activeName" :open-names="openName" :class="menuitemCls" class="menu-item">
+  <Menu ref="asideMenu" @on-select="handleMenuSelect" :mode="mode" width="auto" :theme="theme" accordion :active-name="activeName" :open-names="openName" :class="menuitemCls" class="menu-item no-wrap">
     <template v-if="menuList && menuList.length !== 0" v-for="(item, index) in menuList">
       <jy-subMenu :value="item" :key="index"></jy-subMenu>
     </template>
